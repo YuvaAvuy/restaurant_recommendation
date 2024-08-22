@@ -1,0 +1,1107 @@
+ID,Area,City,Restaurant,Price,Avg ratings,Total ratings,Food type,Address,Delivery time
+6345,Teynampet,Chennai,Amaravathi,650.0,4.2,100,"Indian,Chinese,Andhra,Tandoor",Cathedral Road,53
+6358,Nandanam,Chennai,Eatalica,500.0,4.5,100,"Italian,American",Ra Puram,69
+7776,Gopalapuram,Chennai,The Kati Roll Shop,250.0,4.3,1000,Street Food,Cathedral Road,52
+7826,Alwarpet,Chennai,Benjarong,1500.0,4.6,100,Thai,Ttk Road,68
+7828,Mylapore,Chennai,Kaaraikudi,500.0,3.6,100,Chettinad,Dr Radhakrishnan Salai,57
+8139,Kotturpuram,Chennai,Ciclo Cafe,1100.0,4.4,1000,"Continental,Italian,Italian-American",Alwarpet,71
+8272,Alwarpet,Chennai,Ashvita Bistro,500.0,4.1,20,"Continental,Asian",Alwarpet,69
+8275,Alwarpet,Chennai,Gogo Momo,350.0,4.2,50,Chinese,Bava Road,65
+8501,Alwarpet,Chennai,Dhabba Express,500.0,4.0,100,"Punjabi,North Indian,Chinese",Cenotaph Road,62
+8856,Thousand Lights,Chennai,Ox & Tomato,500.0,4.4,50,"Italian,Pizzas,Pastas,Desserts,Continental,Salads",Opp To Ather Bike Showroom,55
+8894,Mylapore,Chennai,Fresh Baked Goodness,250.0,4.7,500,Bakery,Mylapore,63
+8952,Alwarpet,Chennai,Absolute Thai,1400.0,4.4,100,"Thai,Pan-Asian",Teynampet,71
+9058,Thousand Lights,Chennai,Sandy'S,700.0,4.3,500,"Desserts,Continental",Wallace Garden,54
+9098,Nungambakkam,Chennai,Mexicano Griller,800.0,3.9,20,"Mexican,Continental",Nungambakkam,64
+9113,Thousand Lights,Chennai,Tuscana Pizzeria,1200.0,4.1,50,Italian,Nugambakkam,60
+9121,Thousand Lights,Chennai,Mamagoto,900.0,4.3,100,"Chinese,Asian,Pan-Asian,Thai,Oriental",Nugambakkam,55
+9127,Nungambakkam,Chennai,Eatza Pizza,600.0,4.1,20,"Italian,Pizzas",Nugambakkam,58
+9250,Gopalapuram,Chennai,Bayleaf Otg (On The Go),250.0,4.4,100,"Bengali,North Indian,Biryani,Street Food",Gopalapuram,55
+9344,Vadapalani,Chennai,King Sandwich,200.0,4.3,100,Fast Food,Kodambakkam,71
+9368,Alwarpet,Chennai,Sachin Ka Dhabba,500.0,4.1,50,"Punjabi,North Indian,Chinese",Cenetoph Road,69
+9502,T. Nagar,Chennai,10 Downing Street,1000.0,4.0,20,"Indian,Continental,Tandoor",T- Nagar,77
+9850,Thousand Lights,Chennai,The Marina,1500.0,4.4,100,Seafood,Nugambakkam,49
+9883,Vadapalani,Chennai,Hotel Pandia'S,400.0,4.2,1000,"Chettinad,North Indian,Chinese,South Indian,Biryani",Vadapalani,77
+9923,Thousand Lights,Chennai,Bombay Brasserie,900.0,4.3,100,Indian,Nugambakkam,48
+9932,Mylapore,Chennai,Kaidi Kitchen,900.0,4.5,100,"North Indian,Chinese,Mexican,Italian,Thai,Lebanese",Bishop Wallers Avenue,63
+10113,Anna Nagar,Chennai,Coco Jaunt 1728,500.0,4.3,50,"Bakery,Cafe",4Th Main Road,68
+10178,Kilpauk,Chennai,Parfait Cakes N Bakes,300.0,3.5,20,"Bakery,Desserts",Manikeshwari Road,49
+10186,Kilpauk,Chennai,Wangs Kitchen,350.0,4.1,100,"Chinese,Fast Food,Asian",Kellys,46
+10275,Anna Nagar,Chennai,Kim Ling,800.0,4.4,500,Chinese,Teja Tower,64
+10537,Mylapore,Chennai,Grill Box,600.0,4.3,100,"Tandoor,North Indian,Chinese,South Indian",Rk Salai,58
+10834,T. Nagar,Chennai,Basil With A Twist,1500.0,4.1,50,"Continental,European,Salads,Italian",Habibullah Road,63
+11043,Alwarpet,Chennai,Truly Scrumptious,350.0,4.5,50,"Ice Cream,Desserts,Bakery",Ra Puram,69
+11051,Kodambakkam,Chennai,Midnight Masala,300.0,3.8,50,"North Indian,Chinese,Biryani",Arcot Road,73
+11316,Anna Nagar,Chennai,Mainland China,850.0,4.3,500,"Chinese,Oriental,Thai,Pan-Asian,Seafood,Asian,Desserts",5Th Avenue,72
+11322,Kodambakkam,Chennai,Kairali Kerala Mess,200.0,4.1,500,Kerala,Voc Main Road,77
+11723,Gandhi Nagar,Chennai,Swiss Hutte,1200.0,2.9,80,"Mediterranean,Seafood,Thai",Greams Road,50
+12468,Mylapore,Chennai,The Brew Room,700.0,4.7,50,Continental,Rk Salai,56
+12614,Royapettah,Chennai,Hotel Millath,350.0,4.4,100,"Chinese,South Indian",West Cott Road,43
+12624,Thousand Lights,Chennai,Amadora Gourmet Ice Creams,300.0,4.7,500,"Ice Cream,Desserts",Wallace Garden,36
+13008,Anna Nagar,Chennai,Pantry D'Or,850.0,4.2,100,"Italian,Continental",6Th Avenue Main Road,65
+13320,Nungambakkam,Chennai,Kumarakom,450.0,4.3,500,"North Indian,Chinese,Kerala",Parsn Complex,57
+13488,Alwarpet,Chennai,Frootster,150.0,4.1,100,"Healthy Food,Fast Food,Beverages",Cp Ramasaway,63
+13500,Gopalapuram,Chennai,Mandarin Chinese Restaurant,350.0,4.0,500,Chinese,Gopalapuram,55
+13506,Thousand Lights,Chennai,Rangi'S,500.0,4.3,100,Chinese,Nungumbakkam,53
+13713,Thousand Lights,Chennai,Little Italy,1200.0,4.3,500,"Pizzas,Salads,Combo,Italian,Mexican,Desserts,Beverages",Wallace Garden,48
+14017,Thousand Lights,Chennai,Haagen Dazs,500.0,4.2,50,"Ice Cream,Desserts",Palavakkam,47
+14107,Alwarpet,Chennai,Cafe De Paris,500.0,2.9,80,Continental,Alwarpet,69
+14108,Alwarpet,Chennai,Sushi In A Box,1500.0,4.4,100,Japanese,Alwarpet,64
+14725,Chetpet,Chennai,Le Wrap Factorie,200.0,4.4,20,"Mexican,Continental",Chetpet,57
+14920,Mylapore,Chennai,Pedreno'S,1000.0,4.1,20,"Italian,Italian-American,American",Rk Salai,60
+14941,Aminjikarai,Chennai,Cafe Toastie Express,250.0,4.2,20,Fast Food,Nelson Manickam Road,66
+15553,Poongavanapuram,Chennai,Anjappar,600.0,4.0,50,"North Indian,Chinese,Chettinad,South Indian,Seafood",Egmore,34
+15567,Egmore,Chennai,Ponnusamy Hotel,600.0,4.2,100,"Biryani,South Indian,Tandoor",Ethiraj Salai,38
+15923,Choolaimedu,Chennai,Cafe Chef'S Paradise,450.0,4.2,20,"Italian,Chinese,Continental,Indian",Choolaimedu,67
+15963,T. Nagar,Chennai,New Andhra Meals Hotel,400.0,4.4,500,"Andhra,South Indian",T Nagar,69
+16141,T. Nagar,Chennai,Moonlight Takeaway & Delivery,250.0,4.0,1000,"Indian,Chinese,Tandoor",T. Nagar,66
+16296,Gopalapuram,Chennai,Sera - The Tapas Bar & Restaurant,1000.0,4.1,20,"Chinese,Continental,Spanish",Gopalapuram,60
+16506,Alwarpet,Chennai,Chap Chay - The Raintree,1200.0,4.4,50,"Chinese,Thai,Malaysian",Anna Salai,72
+16561,Purasaiwakkam,Chennai,Tibbs Frankie,100.0,3.8,100,Fast Food,Purasawalkam,34
+16617,Purasaiwakkam,Chennai,Ganga Sweets,250.0,4.5,100,"North Indian,South Indian,Sweets",Purasawalkam High Road,31
+16974,Cit Nagar,Chennai,Karaikudi Chettinadu Restaurant,300.0,3.6,20,"Chettinad,Chinese,South Indian,Biryani,Tandoor",Ranganathan Street,78
+17150,Annanagar East,Chennai,Southern Chinese Restaurant,400.0,3.9,500,Chinese,Anna Nagar East,61
+17155,Chennai,Chennai,Olive And Basil,500.0,3.8,100,Chinese,Egmore,37
+17456,Anna Nagar,Chennai,Sigree,700.0,4.4,100,"North Indian,Mughlai,Kebabs,Mediterranean,Greek,Turkish,Lebanese",Anna Nagar East,67
+17906,West Mambalam,Chennai,Chop 'N' Stix,500.0,4.3,100,Chinese,Ashok Nagar,77
+17907,Egmore,Chennai,Abid'S,700.0,4.5,100,"Arabian,Biryani,Chinese,Grill,Hyderabadi,Indian,North Indian,Tandoor",Spurtank Road,35
+18333,T. Nagar,Chennai,Chocolate Fantasy,200.0,4.1,20,"Bakery,Desserts,American,Italian,Beverages",Thirumalai Pillai Road,64
+18551,Nandanam,Chennai,Chamiers Cafe,1000.0,4.5,50,"Continental,Italian",Chamiers Road,66
+18837,T. Nagar,Chennai,Zuka,800.0,4.5,100,"Desserts,Bakery",Tnagar,64
+18846,Anna Nagar,Chennai,Parambriym,600.0,4.2,20,"Biryani,South Indian,Indian",Anna Nagar West,63
+19000,Anna Nagar,Chennai,Cafe Arabica,700.0,4.4,500,"Italian,Continental,Arabian,Bakery",Anna Nagarr,60
+19187,Anna Nagar West Extension,Chennai,Hotel Pentagon,350.0,4.1,20,"Chinese,North Indian,South Indian",Thirumangalam,73
+19917,Anna Nagar,Chennai,Asian Station,1400.0,4.5,100,Asian,Croma Building,66
+19927,Teynampet,Chennai,New Seoul,1500.0,4.3,20,"Japanese,Korean",406 3Rd Floor,64
+20166,Thousand Lights,Chennai,Kabab Corner,350.0,4.4,100,"Mughlai,North Indian",Nungambakkam,45
+20747,T. Nagar,Chennai,Rottu Kadai Food Court,250.0,4.1,50,"Chettinad,South Indian",G. N. Chetty Road,68
+20929,T. Nagar,Chennai,Nasi Kandar Pelita,500.0,4.5,100,"North Indian,South Indian,Malaysian,Indian",Pondy Bazaar,67
+21032,Vadapalani,Chennai,Ksg Queen Pizza,150.0,3.2,50,Fast Food,Subamangalam Complex,70
+21232,Balavinayagar Nagar,Chennai,Hotel Arafa,400.0,4.0,100,"South Indian,Biryani,Kebabs",Arumbakkam,58
+21238,Thousand Lights,Chennai,Dhaba Estd 1986 Delhi,900.0,4.2,100,"Biryani,Hyderabadi,North Indian,Indian,Tandoor,Punjabi",Ispahani Center,52
+21780,Arumbakkam,Chennai,Achu'S Cakes & Bakes,150.0,2.9,80,Bakery,Arumbakkam,71
+21785,Vadapalani,Chennai,The Waterfall Restaurant,500.0,3.9,50,"Indian,Chinese,Andhra,Tandoor",Vadapalani,80
+22234,Choolaimedu,Chennai,Naga Reju Fast Food,300.0,4.3,500,"Naga,Chinese,Continental",Arumbakkam,52
+22399,Nungambakkam,Chennai,Movenpick Ice Cream Boutique,500.0,4.5,20,"Ice Cream,Beverages,Desserts",Nungambakkam High Road,46
+22772,Cit Nagar,Chennai,Dezire Sugar Free Health Cafe,150.0,4.4,50,"Bakery,Desserts,Sweets",T Nagar,69
+23210,Chetpet,Chennai,Cafe Adoniya,500.0,4.3,20,"Bakery,Fast Food,Desserts",Spurtank Road,46
+23496,Choolaimedu,Chennai,Cake Max,100.0,4.2,500,"Bakery,Desserts,Pizzas,Beverages",Arumbakkam,65
+24274,Kilpauk,Chennai,The Creams,200.0,4.4,100,"Bakery,Ice Cream,Desserts",Ormes Road,32
+24656,Nungambakkam,Chennai,Grill House,300.0,4.0,1000,"North Indian,Biryani,Kebabs,Indian,Grill,Juices,Seafood,Tandoor",Josier Street,58
+25312,Chennai,Chennai,Le Cafe Et Gateaux,400.0,4.1,50,"American,Bakery",Paper Mills Road,68
+25726,Royapettah,Chennai,Salem Rr Restaurant,300.0,4.1,500,"North Indian,Chinese,South Indian,Biryani",Nungambakkam,41
+26618,Anna Nagar,Chennai,Kolapasi Takeaway,300.0,4.1,100,"South Indian,Biryani",Anna Nagar East,62
+26619,Chetpet,Chennai,Hotel Rolex,400.0,3.9,100,"Biryani,Chinese,Desserts,Grill,Juices,Kebabs,North Indian,Seafood,Tandoor",Mcnichols Road,44
+27991,T. Nagar,Chennai,Latitude - The Park,1400.0,2.9,80,"Salads,Desserts,Italian,Juices,Beverages,Grill",Nungambakkam,84
+28376,Egmore,Chennai,City Sqaure Cafeteria,300.0,4.0,100,"Arabian,Ice Cream,Beverages,Desserts",Casa Major Road,33
+29023,Raja Annamalai Puram,Chennai,Hotel Marina Park,400.0,3.8,20,"Indian,Biryani,Arabian,Grill,South Indian",Santhome,67
+29064,T Nagar,Chennai,Ferraree,850.0,2.9,80,"North Indian,Chinese,South Indian,Continental",Thirumalai Pillai Road,69
+29065,Cit Nagar,Chennai,Fryyo,300.0,4.2,50,Fast Food,South Usman Road,75
+30791,Perambur,Chennai,Tasty Kitchen,300.0,4.2,1000,"Biryani,South Indian,Chinese,Fast Food,North Indian",Kolathur,62
+32263,Choolaimedu,Chennai,Hot Sandwich,200.0,4.3,100,Fast Food,Choolaimedu,61
+33121,Thousand Lights,Chennai,Amethyst,1000.0,4.6,50,"Italian,Continental",Royapettah,53
+33207,George Town,Chennai,Pizza Square (Mint 2),500.0,2.9,80,"American,Pizzas",Same As Cake Square Bazaar Road,50
+33290,Nungambakkam,Chennai,The Table,350.0,4.5,50,Desserts,Nungambakkam,55
+33434,Nungambakkam,Chennai,Ponnusamy Hotels,300.0,4.0,100,"Tandoor,Indian,Mughlai",Jaganthan Road,54
+33457,Purasaiwakkam,Chennai,Buhari,600.0,3.8,1000,"Biryani,North Indian,Chinese,South Indian,Arabian",Purasawalkam - Buhari,34
+34166,Nungambakkam,Chennai,Rahman Biriyani Formerly Known As Bismi Biriyani,350.0,4.2,100,"Biryani,Chinese,Grill,Indian,North Indian,South Indian,Tandoor",Valluvarkottam High Road,49
+34312,T. Nagar,Chennai,Chin Chin - The Residency,1900.0,4.3,50,Chinese,T. Nagar,72
+34313,T. Nagar,Chennai,The Right Place - The Residency,1000.0,2.9,80,"Indian,Continental",T. Nagar,71
+35433,T. Nagar,Chennai,Momo,100.0,4.1,50,Chinese,T Nagar,60
+37039,Vadapalani,Chennai,Salt Indian Restaurant & Grill,1500.0,4.1,100,"North Indian,Biryani,Combo",Forum Mall,84
+37067,Kilpauk,Chennai,Subway,350.0,4.4,1000,"Fast Food,Salads,Snacks,Desserts,Beverages",Kilpauk,48
+37972,Anna Salai,Chennai,Mcdonald'S,400.0,4.3,1000,"American,Fast Food",Spencer,38
+38154,Alwarpet,Chennai,Pumpkin Tales,950.0,4.6,500,"Asian,Bakery,Continental",Bheemanna Garden St Sri Ram Nagar,66
+38158,Perambur,Chennai,Iftar Corner,400.0,4.1,100,"Arabian,Asian,Chinese",Perambur,64
+38187,Aminjikarai,Chennai,Jasmine Restaurant,250.0,4.1,50,"Biryani,Chettinad",Kk Nagar,54
+38467,Sastri Nager,Chennai,Madras Biriyani,500.0,3.9,100,"Biryani,Mughlai",Vysarpadi,53
+38590,Kodungaiyur,Chennai,J J Juicy World,250.0,4.1,20,"Chaat,Juices",Moolakadai,64
+38692,Triplicane,Chennai,Five Star Chicken,350.0,2.9,80,Fast Food,Royepettah,46
+39447,Egmore,Chennai,Cake Park,150.0,2.9,80,"Bakery,Desserts",Ethiraj Salai,47
+39583,Perambur,Chennai,Grill & Barbeque,300.0,4.0,500,"Chinese,Fast Food,Grill,North Indian",Perambur,64
+40288,Chetpet,Chennai,Bayleaf Otg (On The Go),300.0,4.3,100,"North Indian,Bengali,Biryani,Street Food",Harrington Road,45
+40473,Perambur,Chennai,Sri Guru Fast Food,250.0,3.9,50,"Fast Food,North Indian",Jawahar Nagar,60
+40908,Mylapore,Chennai,Classic Shawarma And Grill,250.0,4.1,20,"Arabian,Fast Food",Mylapore Kutcheri Road,58
+41397,Old Washermanpet,Chennai,Frozen Smoothies,350.0,4.0,100,"Beverages,Ice Cream,Juices,Desserts,Snacks",Choolai,68
+41741,Poongavanapuram,Chennai,Lassi Shop,100.0,3.9,20,Beverages,Periamet,30
+42330,Gopalapuram,Chennai,Sri Ganesh Chettinadu Hotel,400.0,4.1,100,"Fast Food,South Indian",Royapettah,49
+42337,Raja Annamalai Puram,Chennai,Fromage,1000.0,4.3,50,"Italian,Continental",Mrc Nagar,77
+42832,Choolaimedu,Chennai,Al Dari Biryani,350.0,3.6,100,"Biryani,Indian",Kodambakkam,79
+43185,Egmore,Chennai,Palmshore,400.0,4.0,1000,Arabian,Egmore,44
+43189,Balavinayagar Nagar,Chennai,Cake Waves,300.0,2.9,80,"Bakery,Desserts",Arumbakkam,70
+44000,Royapettah,Chennai,Madurai Pandian Mess,300.0,4.2,1000,South Indian,Mylapore,49
+44141,Chennai,Chennai,Arul Chettinadu Hotel,350.0,4.0,1000,"Chettinad,Chinese,South Indian,Seafood,Biryani",Near Poorvika,51
+44246,Annanagar East,Chennai,Roll Baby Roll,250.0,4.4,100,Indian,Near Ice Cream Works,56
+44261,Anna Nagar,Chennai,Urban Spatula,1000.0,4.3,100,"Arabian,Asian,Biryani,Continental,Italian,Kebabs,North Indian,Seafood",Annanagar,80
+44640,Teynampet,Chennai,Chit Chat,100.0,2.9,80,"Desserts,Ice Cream,Snacks",T Nagar,58
+46092,T. Nagar,Chennai,Shaik Shack Shawarma,200.0,4.1,100,Fast Food,T Nagar,72
+46137,Perambur,Chennai,Dolphin Fast Food,300.0,4.1,100,"South Indian,North Indian,Chinese,Fast Food",Periyar Nagar,59
+46248,Perambur,Chennai,Burger Cafe,250.0,4.2,100,"American,Beverages,Fast Food",Jamaliya,52
+46460,Triplicane,Chennai,Rizwan Biriyani And Kabab Center,300.0,4.1,100,"Biryani,Fast Food,Kebabs",Royapettah,34
+46773,Teynampet,Chennai,Ente Keralam,750.0,4.5,100,Kerala,Kasturi Estate,58
+46909,Nungambakkam,Chennai,Hotel Crescent,450.0,4.3,1000,"Kerala,South Indian,Chinese,North Indian",Valluvar Kottam,49
+47004,Purasaiwakkam,Chennai,Hotel Deccan,400.0,4.3,100,"Biryani,Chettinad,South Indian,Chinese",Purasawakam,32
+47458,Gopalapuram,Chennai,Hotel Safari,450.0,4.3,500,"North Indian,South Indian,Chinese,Biryani",Royapettah,42
+48630,Teynampet,Chennai,Hot Pan,200.0,3.5,20,"Pizzas,Chinese,Juices",Teynampet,64
+49133,Poongavanapuram,Chennai,Karim Biryani,300.0,3.8,20,"Biryani,South Indian",Periamet,32
+49163,Triplicane,Chennai,Hotel Sangam - Mount Road,300.0,4.1,500,"Biryani,North Indian,Chinese",Mount Road,36
+49578,Annanagar East,Chennai,Daily Treat,200.0,3.8,20,"American,Juices,Street Food,Pizzas",Annanagar,62
+49811,Royapettah,Chennai,Hot Breads,150.0,4.4,100,Bakery,Triplicane,39
+49931,Perambur,Chennai,Arafa Biriyani & Kebab Point,250.0,3.8,50,"Biryani,Chinese",Perambur,62
+49939,Aminjikarai,Chennai,Deen Biryani,400.0,3.8,1000,"Biryani,Chinese",Arumbakkam,54
+50138,Thousand Lights,Chennai,Old Madras Baking Company,300.0,4.6,100,"Bakery,Desserts",Khader Nawaz Khan Road,37
+50216,Nungambakkam,Chennai,Drunken Monkey,400.0,4.2,100,"Healthy Food,Beverages,Juices",Sterling Road,56
+50773,West Mambalam,Chennai,Vijay'S Delhi Chat,150.0,4.3,50,"Chinese,North Indian,Chaat",T Nagar,77
+50973,Kilpauk,Chennai,Buhari Vintage Hotel - Kilpauk,400.0,4.4,100,"Biryani,North Indian,Chinese",Old 6-E Harleys Road,45
+51158,Anna Nagar,Chennai,Hyderabad Mughal Biriyani,500.0,3.9,100,"North Indian,Chinese",Annanagar,69
+51230,Triplicane,Chennai,Umar Biriyani,400.0,2.9,80,"Biryani,Chinese,Arabian",Royapettah,34
+51317,Chennai,Chennai,Pally Tastei Food (Perambur),250.0,3.9,1000,"Chinese,North Indian,South Indian",Perambur,53
+51492,Purasaiwakkam,Chennai,Ritz,650.0,2.9,80,"North Indian,Chinese",Egmore,39
+51621,Nungambakkam,Chennai,Mishwar Restaurant,750.0,3.9,20,"Kerala,South Indian,Arabian,Chinese",Nungambakkam,54
+51832,Royapuram,Chennai,Pandia'S Avenue,500.0,4.1,1000,"Chettinad,South Indian,North Indian,Chinese",Royapuram,67
+51833,Old Washermanpet,Chennai,Bakers Spring,250.0,4.3,50,"Bakery,Desserts,Fast Food",Royapuram,61
+51863,George Town,Chennai,Sea Shore,500.0,3.8,20,"North Indian,Chettinad,Chinese,Seafood",Broadway Near Vijaya Opticals',39
+52024,George Town,Chennai,Hotel Zum Zum 1965,300.0,3.7,100,"North Indian,South Indian,Chettinad",George Town,46
+52045,Anna Nagar,Chennai,Little Hut (Shanthi Colony),300.0,4.3,100,"North Indian,Chinese,Fast Food,Arabian",Annanagar,65
+52151,Old Washermanpet,Chennai,Atho Man,350.0,4.0,100,"Burmese,Indian,Chinese,Arabian",Royapuram,49
+52207,Vadapalani,Chennai,Asima Briyani,400.0,4.0,100,"Biryani,Indian,Chinese,North Indian,South Indian,Grill,Barbecue,Tandoor",Vadapalani,73
+52548,George Town,Chennai,Dindigul Thalappakatti,400.0,3.9,100,"Biryani,Barbecue,South Indian,Chinese,North Indian",N.S.C Bose Road,50
+52604,Chennai,Chennai,Pizza Cottage,450.0,4.1,100,"Pizzas,Fast Food",Royapuram,48
+52725,Royapettah,Chennai,Kozhi Idli,200.0,4.4,100,South Indian,Royapettah,46
+53710,Chennai,Chennai,Chef Express,250.0,4.0,100,Italian,T Nagar,75
+53815,Choolaimedu,Chennai,Zam Zam Biriyani & Fast Food,250.0,3.8,20,"Biryani,Fast Food",Choolaimedu,65
+53884,Kilpauk,Chennai,Wraps & Rolls,150.0,4.1,50,"Street Food,Fast Food,Pizzas,Italian,Desserts",Kilpauk,45
+53934,Purasaiwakkam,Chennai,Ibaco,800.0,4.7,50,"Ice Cream,Desserts",Purasaiwalkam,35
+54668,George Town,Chennai,Cool Biz,100.0,4.0,100,"Beverages,Juices",Parrys,38
+54735,Kilpauk,Chennai,Saleem Biryani,300.0,3.6,50,"Biryani,Chinese,North Indian",Dr.Alagappa Road,40
+54801,Raja Annamalai Puram,Chennai,Broken Bridge Cafe,1100.0,4.5,50,"Indian,Continental",Alwarpet,79
+54972,George Town,Chennai,Hotel Kalyana Bhavan,250.0,2.9,80,Biryani,Parrys Corner,50
+54973,Royapettah,Chennai,Sathyam Cinemas,250.0,4.4,500,"Fast Food,Snacks,Desserts,Beverages",Sathyam Cinemas,44
+55334,Teynampet,Chennai,The Summer House Eatery,1000.0,4.3,50,"Italian,Continental,French,Japanese,Korean,Thai",Alwarpet,59
+55746,Purasaiwakkam,Chennai,The Cake World,250.0,2.9,80,"Bakery,Desserts",Purasawalkam,49
+56130,Annanagar East,Chennai,Shri Balaajee Bhavan,250.0,4.5,1000,"South Indian,North Indian",Anna Nagar,53
+56627,Purasaiwakkam,Chennai,Chaicup,200.0,4.3,100,"Beverages,Snacks,Bakery",Briklyn Road,36
+57004,Anna Nagar,Chennai,Kings Kitchen,249.0,2.9,80,"Chinese,Kebabs,North Indian",Annanagar,67
+57048,Nungambakkam,Chennai,Chicking,350.0,4.3,500,"Fast Food,Continental",Nungambakkam,58
+57113,Washermanpet,Chennai,Atho Grillz - G A Road,350.0,4.0,100,"Burmese,Indian,Chinese,Arabian",Old Washermanpet,56
+57673,Purasaiwakkam,Chennai,Lite Tiffin,300.0,4.1,20,South Indian,Kilpauk,51
+57856,Anna Nagar,Chennai,Superstar Pizza,500.0,4.2,20,"Pizzas,Fast Food",Anna Nagar,67
+57868,Mylapore,Chennai,Viswanathan Chettinadu Hotel,200.0,4.1,100,South Indian,Mylapore,55
+58049,Chennai,Chennai,Perambur Sri Srinivasa Sweets And Snacks,300.0,4.3,1000,"South Indian,North Indian",Opposite Perambur Railway Station,55
+58632,Choolaimedu,Chennai,New Loyola Fast Foods,250.0,4.2,100,"Chinese,Biryani",Nelson Manickam,53
+58858,Kodungaiyur,Chennai,Madras Pizza,200.0,4.1,100,"Pizzas,Juices,Beverages",Sundaram Pillai,62
+59550,Gopalapuram,Chennai,The Grand Sweets And Snacks - Amirtham Restaurant,200.0,4.7,100,"Sweets,Snacks",Gopalapuram,44
+59555,T. Nagar,Chennai,The Grand Sweets And Snacks - Amirtham Restaurant,400.0,4.7,500,"Sweets,Snacks",T Nagar,58
+59864,Thousand Lights,Chennai,Palm Jumeira,400.0,3.9,500,"Indian,Chinese,Arabian,Biryani,Beverages,Desserts",Royapettah,45
+59971,Anna Nagar,Chennai,Kebabery,400.0,4.3,100,"Afghani,Biryani",Anna Nagar,70
+60347,Mylapore,Chennai,27 Culinary Street,300.0,2.9,80,"North Indian,South Indian,Chinese,Indian,Mongolian,Continental",Mylapore,55
+61000,Teynampet,Chennai,Truffle Delight,200.0,3.9,100,"Bakery,Desserts,Beverages,Snacks,Juices,Pizzas",Alwarpet,60
+61561,West Mambalam,Chennai,Fnp Cakes 'N' More,200.0,3.7,50,Desserts,Ashok Nagar,71
+61910,Poongavanapuram,Chennai,Hotel Khaja Empire,300.0,4.0,20,"Chinese,North Indian",Purasawakam,37
+62679,Anna Nagar,Chennai,Ambur Star Briyani,500.0,4.3,1000,Biryani,Near Tower Park,58
+63156,Vyasarpadi,Chennai,Meat And Eat,400.0,4.2,100,Fast Food,Perambur,48
+63705,Kodambakkam,Chennai,Hotel Hollywood,500.0,4.3,100,"North Indian,Biryani,Seafood,South Indian",Kodambakkam,66
+67283,Kodambakkam,Chennai,Rahmas Biryani,300.0,3.8,20,Biryani,Kodambakkam,80
+67575,Thousand Lights,Chennai,Savoury Sea Shell,400.0,4.3,1000,"Arabian,Indian,Chinese",Egmore,47
+69489,Kodambakkam,Chennai,The Juice Shop @ Arab Street,150.0,2.9,80,"Juices,Desserts,Beverages",Kodambakkam,83
+69531,Annanagar,Chennai,6Th Avenue,250.0,3.7,20,"Indian,Chinese,Continental",Anna Nagar West,70
+70344,Ayanavaram,Chennai,Udupi Hotel Venkateswara,300.0,4.3,100,"South Indian,North Indian,Chinese",Anna Nagar,51
+71361,Purasaiwakkam,Chennai,Shree Konar Vilas,300.0,4.1,500,"South Indian,Chettinad",Purasawakam,31
+72236,Teynampet,Chennai,Cafe Cakebee,700.0,4.3,50,"Cafe,Italian,Bakery,Desserts",Alwarpet,63
+72625,Raja Annamalai Puram,Chennai,Ciclo Life,500.0,4.5,500,"Salads,Continental,Oriental,Beverages",2Nd Main Rd Govindaswamy Nagar,68
+73475,Choolai,Chennai,Snackart,200.0,3.5,20,Snacks,Pattalam,45
+73574,Egmore,Chennai,Brownie Heaven,200.0,4.6,20,Desserts,Egmore,37
+73662,Annanagar East,Chennai,Mozza,0.0,2.9,80,"Continental,Chinese,Italian,Mexican",Annangar East,64
+73665,Kolathur,Chennai,Bismillah Briyani & Fast Food,300.0,3.8,500,"Tandoor,Chinese,Biryani,Indian",Perambur,63
+73720,Kilpauk,Chennai,Hotel Paramount,500.0,4.3,1000,"North Indian,South Indian,Chinese,Seafood,Biryani",Kilpauk,39
+74870,Old Washermanpet,Chennai,Nypfc - New York Pizza & Fried Chicken,350.0,4.2,100,"Fast Food,Pizzas",Royapuram,59
+76702,Egmore,Chennai,The Red Box,400.0,4.0,500,Chinese,Egmore,38
+79595,Alwarpet,Chennai,Hutong,800.0,3.5,20,"Chinese,Pan-Asian,Combo",Alwarpet,69
+80398,Anna Nagar,Chennai,Rosewater,800.0,4.2,20,"Indian,Chinese,Continental,Asian",Anna Nagar East,73
+81114,Purasaiwakkam,Chennai,Courtallam Border Rahmath Kadai,500.0,4.1,500,South Indian,Tana Street,36
+81650,Old Washermanpet,Chennai,Taj Multi Cuisine Restaurant,300.0,3.9,100,"Indian,Chinese,Tandoor",Royapuram,63
+82956,Jamalia,Chennai,A R Rahman Bistro,300.0,4.2,20,"North Indian,Arabian,Chinese",Perambur,49
+84139,T. Nagar,Chennai,Chai Kanth,150.0,4.1,100,Beverages,T Nagar,70
+84140,Kodungaiyur,Chennai,Yunoos Restaurant,300.0,4.2,100,"South Indian,Chinese",Perambur,57
+86724,Thousand Lights,Chennai,Nasi And Mee,1200.0,4.5,500,"Pan-Asian,Singaporean,Malaysian,Japanese,Asian,Thai,Chinese,Indonesian",Nungambakkam,50
+87551,Royapuram,Chennai,Banana Leaf,300.0,3.8,50,"South Indian,Biryani,Chinese",Royapuram,54
+88711,Old Washermanpet,Chennai,Nizam Biryani Catering,400.0,4.2,500,"Biryani,Chinese",Royapuram,56
+89691,Anna Nagar,Chennai,Cheesy Juicy Burgers,450.0,3.9,50,"Fast Food,Continental",Anna Nagar,60
+90694,Anna Nagar,Chennai,Happy Cake Stories,350.0,3.8,20,Bakery,Anna Nagar,76
+90712,Thousand Lights,Chennai,Ubq By Barbeque Nation,300.0,3.9,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Thousand Light West,50
+90911,Chennai,Chennai,Chennai Rawther Biriyani,300.0,4.2,100,"Chinese,North Indian,Biryani",Koyambedu,76
+91781,Annanagar East,Chennai,Italian Pizza,200.0,3.4,20,"Italian,Continental",Annanagar East,62
+92403,Kilpauk,Chennai,Juice Junction,150.0,4.6,500,"Juices,Beverages",Kilpauk Garden,54
+92796,Perambur,Chennai,Riyas Briyani,250.0,4.0,100,"Biryani,Tandoor,Chinese,North Indian",Kolathur,60
+94075,Balavinayagar Nagar,Chennai,Vigrama Hotel,250.0,4.1,50,South Indian,Arumbakkam,61
+95206,Choolaimedu,Chennai,Mujiba Restaurant,300.0,2.9,80,"Indian,Chinese",Imbarjapuram 1St Street,92
+97418,Teynampet,Chennai,Sweetsoul Buddha Bowls,1100.0,4.5,100,"Healthy Food,Salads,Desserts",Hotel Raj Park,64
+98817,Annanagar East,Chennai,Chennai Rawther,300.0,3.9,100,"Biryani,South Indian,North Indian,Chinese",Anna Nagar East,64
+99085,Ayanavaram,Chennai,Hotel Noor,350.0,4.2,100,Indian,Perambur,52
+99341,Gopalapuram,Chennai,Cafe Clock,200.0,4.7,100,"Beverages,Ice Cream",Royepettah,49
+100958,Teynampet,Chennai,Pizza Shop,400.0,3.7,20,"Pizzas,Italian,Continental,American,Chinese,Snacks,Desserts,Beverages",Teynampet,70
+101631,Egmore,Chennai,Zam Zam Fast Food,300.0,3.9,500,Fast Food,Narayanan Street,34
+101652,Annanagar East,Chennai,Get Diety,500.0,4.1,100,"Healthy Food,Continental,Salads,American,Italian,Seafood,Indian,Snacks,Keto,Juices",11Th Main Road,57
+102263,T. Nagar,Chennai,Shawarma Kadai,180.0,4.1,50,Arabian,Habibullah Road Tirumalai Pillai Road,62
+111164,Anna Nagar West Extension,Chennai,Chennai Cakes,200.0,4.2,50,Bakery,Anna Nagar West Extn,68
+111360,Perambur,Chennai,Dharani Home Mades,200.0,4.1,500,"Snacks,Fast Food",M H Road South,48
+117303,T. Nagar,Chennai,Mambalam Annashree,250.0,4.1,1000,"South Indian,North Indian,Chinese",Vijayaraghava Road,61
+119056,Thirunagar Signal Vadapalani,Chennai,Nalan Restaurant,300.0,3.6,20,"North Indian,South Indian,Indian",Thirunagar Signal,75
+121264,Annamalai Colony,Chennai,Little India,200.0,4.2,100,"North Indian,South Indian,Chinese",Vadapalani,82
+121807,Aminjikarai,Chennai,The Brownie Studio,300.0,4.7,500,"Bakery,Desserts,Snacks,Ice Cream,Beverages",Shenoy Nagar,51
+122437,Teynampet,Chennai,The Bark,500.0,4.6,20,"Italian,Mexican,Continental",Maharaja Surya Rao Road,62
+122863,Egmore,Chennai,Juice Forest,250.0,4.4,500,"Healthy Food,Juices,Beverages,Desserts",Montieth Road,33
+125298,Egmore,Chennai,Writer'S Cafe,400.0,4.4,500,"Continental,Italian",Ethiraj Salai,45
+127199,Royapettah,Chennai,Oh My Shawarma,200.0,4.4,100,Arabian,Royapettah,47
+128953,Old Washermanpet,Chennai,Star Biriyani And Fast Food,200.0,2.9,80,"North Indian,Biryani,Kebabs",Royapuram,53
+129725,Purasaiwakkam,Chennai,Hotel Farook,450.0,4.3,1000,"South Indian,Arabian",Purasavakkam,37
+129922,Arumbakkam,Chennai,Go Grill,300.0,4.1,20,"North Indian,Grill,Biryani,Snacks",Arumbakkam,72
+130423,Gandhi Nagar,Chennai,Al Souk,400.0,4.3,50,"Juices,Grill,Arabian",Anderson Road,51
+130502,Nungambakkam,Chennai,Nolita,1200.0,4.1,100,"Italian,Beverages,Ice Cream,Pizzas,Snacks,Desserts,Pastas,Greek,Salads,Continental",Nungambakkam,51
+130507,Perambur,Chennai,Lassi Nation,200.0,3.7,100,Beverages,Peravallur,60
+131167,Anna Nagar,Chennai,Bib -  English Breakfast In The Box,300.0,4.4,100,Continental,Anna Nagar East,71
+131176,Anna Nagar,Chennai,Omleterian,250.0,4.3,50,"Healthy Food,Snacks",Anna Nagar East,67
+131321,Triplicane,Chennai,Hotel Rhiya,300.0,2.9,80,"South Indian,Indian,Fast Food,Biryani,Chinese",Triplicane,49
+131394,Thousand Lights,Chennai,Blind Ch3Mistry,600.0,4.1,20,"Italian,Beverages,Asian",Nungambakkam,51
+131758,Kodambakkam,Chennai,Sri Saikarthi Andhara Curries And Snacks,150.0,4.0,100,"Kerala,Chettinad,Andhra",Sivan Kovil Street,74
+132818,Egmore,Chennai,Basheer Bai Briyani,200.0,4.0,100,"South Indian,Indian,Biryani",Egmore,34
+133777,Chennai,Chennai,Madurai Sri Thevar Hotel,300.0,3.8,500,South Indian,Parrys,36
+133781,George Town,Chennai,Srb Hyderabad Biryani,300.0,2.9,80,"Fast Food,Biryani,Chinese,Grill,Arabian",Tondairpet,64
+133893,Ashok Nagar,Chennai,Bbq Bro'S,350.0,4.0,50,"Barbecue,Snacks,Beverages,Lebanese,Fast Food",Ashok Nagar,88
+134404,Royapettah,Chennai,Aks Kabab,300.0,4.1,50,"South Indian,Indian,Fast Food,Street Food,Kebabs,Mughlai",Nallala Street,49
+135489,Nungambakkam,Chennai,Crisp Cafe,400.0,4.6,20,"North Indian,Italian,Beverages,Juices,Ice Cream,Pizzas,Desserts,Pastas,Cafe",Kothari Road,58
+139168,Vadapalani,Chennai,Vivikta Chapati Shop,150.0,2.9,80,South Indian,Vadapalani,76
+140465,Express Avenue Mall,Chennai,Jonah'S Bistro,600.0,4.5,50,"Italian,Continental,Pastas",Express Avenue,54
+140524,Raja Annamalai Puram,Chennai,Radio Room,1200.0,4.2,20,Indian,Mrc Nagar,83
+141364,Thousand Lights,Chennai,Starbucks Coffee,400.0,4.4,100,"Beverages,Ice Cream",Bergamo Mall,38
+141433,Shenoy Nagar,Chennai,The Fat Boy,400.0,4.4,500,"Italian,Beverages,Juices,Pizzas",Shenoy Nagar,59
+141698,Ayanavaram,Chennai,Arabian Grills,150.0,3.6,100,"Chinese,Arabian",Aynavaram,50
+142565,Choolaimedu,Chennai,Juice Park,100.0,4.4,50,Juices,Choolaimedu,60
+143064,Annanagar East,Chennai,Silver Spoon,500.0,4.3,100,"North Indian,South Indian,Indian,Grill,Arabian,Kebabs,Tandoor",Anna Nagar East,64
+144692,Annanagar East,Chennai,Desi Street,200.0,4.2,100,"North Indian,Indian,Grill,Street Food,Kebabs,Tandoor,Chaat,Biryani",Annanagar,66
+144698,Arumbakkam,Chennai,Halal Kattu Biryani,250.0,4.1,500,"Indian,Biryani,Chinese",Arumbakkam,62
+144828,Thousand Lights,Chennai,Taco Bell,300.0,4.3,500,Mexican,Express Avenue,53
+145688,Shenoy Nagar,Chennai,Indian Biriyani House,300.0,4.0,50,"Indian,Biryani,Chinese",Shenoy Nagar,58
+146059,Choolai,Chennai,Best Fast Food,250.0,3.9,20,Chinese,Vepery,30
+147082,Teynampet,Chennai,Hotel Ananda,300.0,4.5,500,"North Indian,South Indian,Beverages",Teynampet,60
+147485,Purasaiwakkam,Chennai,Kaapi House,250.0,2.9,80,Beverages,Secretariat Colony,56
+148279,George Town,Chennai,Kanishka Kulfi,150.0,3.8,20,Ice Cream,Mint Street,50
+154484,Teynampet,Chennai,Juice Cafe,300.0,4.1,100,"Juices,Pizzas,American,Biryani,Chinese,Snacks,Desserts,Beverages",Elago Salai Teynampet,58
+157995,Anna Nagar,Chennai,Ramaas The Hyderabadi,600.0,4.2,500,"Hyderabadi,Indian,Tandoor",Shanthi Nagar,62
+159913,Kilpauk,Chennai,Chai Kings,150.0,4.5,100,"Beverages,Snacks",Kilpauk,38
+160082,Ayanavaram,Chennai,Ginger Garlic,250.0,4.2,100,"Chinese,Arabian,Tandoor",V.P Colony ( South Street)  Aynavaram,50
+160090,Egmore,Chennai,Ambaram Fast Food,200.0,3.8,20,"South Indian,Fast Food",Basha Shaib Street Pudupet,37
+160297,Vyasarpadi,Chennai,Rihana Burma Foods,150.0,4.3,50,Burmese,Mkb Nagar,53
+163739,Kodambakkam,Chennai,Mannah Sweets,300.0,4.6,100,"Sweets,Snacks,Bakery,Indian",Kodambakkam,63
+164668,Alwarpet,Chennai,Gogo Thai,200.0,2.9,80,Fast Food,Alwarpet,71
+165658,Kodambakkam,Chennai,Sai Datta Andhra Mess,200.0,3.8,20,"South Indian,Fast Food,Chinese",Near Five Lights Junction,75
+167556,Triplicane,Chennai,Sealord Restaurant,450.0,4.0,100,"South Indian,Fast Food,Biryani,Chinese",Triplicane,40
+167614,Thousand Lights,Chennai,Hotel Sennthur,300.0,4.4,500,"North Indian,South Indian",Club House Road,44
+167970,Old Washermanpet,Chennai,Biriyani Brothers,250.0,4.3,100,"Indian,Biryani",Washermenpet,53
+168602,Alwarpet,Chennai,Gongura,350.0,3.1,20,"Biryani,Andhra",Cenotaph Road,64
+168668,Alwarpet,Chennai,Dal Rotti,300.0,4.1,500,North Indian,Cenotaph Road,66
+168713,Annanagar East,Chennai,Pulusu ( Anna Nagar ),300.0,4.1,500,"Andhra,Biryani,Chettinad,South Indian,Desserts,Beverages",Second Avenue,58
+169086,Ayanavaram,Chennai,Oliver Garden Cater,100.0,2.9,80,Fast Food,Pudhunagar.Aynavaram.,58
+169803,Annanagar,Chennai,Milda Naturals,250.0,2.9,80,Ice Cream,Ayanavaram,52
+171298,Perambur,Chennai,Am Biryani,400.0,3.6,500,Biryani,Jumbulingam Main Road G.K.M Colony,58
+172464,Thousand Lights,Chennai,Stix  By Hyatt Regency Chennai,1200.0,3.8,20,"Chinese,Continental,Italian,North Indian",Teynampet,80
+172606,Aminjikarai,Chennai,Bharani Bhavan,300.0,4.3,100,South Indian,Vaidhyanadan Street,49
+173248,West Mambalam,Chennai,Thanjavur Mess,200.0,4.4,1000,South Indian,West Mambalam,69
+173830,Thousand Lights,Chennai,Airborne Carnival,400.0,2.9,80,"Fast Food,Beverages",Kader Nawaz Khan Road,49
+175347,Egmore,Chennai,Symphony - Ramada,200.0,4.0,50,"Indian,Chinese,Tandoor",Egmore,39
+175761,Kodambakkam,Chennai,Puducherry Sri Kamatchi.,300.0,4.3,1000,"South Indian,Chinese",Kk Nagar,71
+176725,Triplicane,Chennai,Salem Rr Biriyani Unavagam,400.0,3.9,100,"Biryani,Chettinad,Tandoor,Chinese",Egmore,33
+177336,Tondiarpet,Chennai,Delicious Pizza,200.0,2.9,80,Fast Food,Washermenpet,81
+177339,West Mambalam,Chennai,Bakya Veg Restaurant,150.0,4.3,1000,"South Indian,Chinese,North Indian",T Nagar,75
+177865,Triplicane,Chennai,Super Bombay Kulfi Natural Ice Cream Milkshake And Chats,200.0,2.9,80,"Ice Cream,Beverages",Jhony John Khan Road,47
+180533,George Town,Chennai,Majeeth Hotel,300.0,4.1,100,"South Indian,Chinese,Biryani",Royapuram,44
+180579,Ayanavaram,Chennai,Green Mango Juice Shop,30.0,4.2,20,Juices,Vasantha Nagar Chinna Chembarambakkam Ayanavaram,57
+181010,Aminjikarai,Chennai,Thulasi Mess,150.0,3.8,100,"South Indian,North Indian,Andhra,Biryani",Arumbakkam,54
+182585,Alwarpet,Chennai,Havmor,300.0,4.7,100,"Ice Cream,Desserts",Alwarpet,55
+182610,Thousand Lights,Chennai,Sante Spa Cuisine,1300.0,4.6,100,"Italian,Continental,Mediterranean,Fast Food",Nungambakkam,47
+183253,Purasaiwakkam,Chennai,Riyas Biriyani,300.0,3.9,20,Indian,T.Nagar,36
+187550,Kodambakkam,Chennai,Sss Hyderabad Briyani,250.0,3.9,100,"Chinese,Indian",Kodambakkam,71
+191798,Alwarpet,Chennai,Crust & Cheese Pizza,400.0,4.4,50,"Pizzas,Italian-American",Alwarpet,72
+191903,Ayanavaram,Chennai,Sri Balaji Fast Food,250.0,4.1,100,"Chinese,Indian",Villivakkam,51
+197699,Annamalai Colony,Chennai,Yakebab - Charcoal Grilled Treat,300.0,4.2,100,"Arabian,Biryani,Chinese,North Indian",Vadapalani,77
+198334,Perambur,Chennai,Ammavin Aduppankarai,400.0,4.1,500,"Chettinad,Chinese,South Indian",Perambur,64
+198342,Ponniammanmedu,Chennai,Red Chilly Kitchen,400.0,4.0,50,"Chinese,Fast Food,South Indian",Perambur,71
+199773,Anna Nagar,Chennai,Vimalam Mess,700.0,4.3,100,South Indian,Annanagar,60
+200790,Teynampet,Chennai,Fabcafe By Fabindia,1000.0,4.3,100,"Healthy Food,North Indian,Biryani,Beverages",New Area,57
+200833,Anna Nagar,Chennai,Momo Sa-Khang By Kailash Kitchen,200.0,4.7,500,Chinese,Annanagar,52
+201164,Gopalapuram,Chennai,The Bowl Company,300.0,4.2,5000,"Continental,North Indian,Pan-Asian,Desserts,American,Asian,Beverages,Biryani,Chinese,Combo,European,Grill,Hyderabadi,Indian,Italian,Kebabs,Lucknowi,Mediterranean,Mexican,Mughlai,Oriental,Pastas,Punjab",Royapettah,55
+201165,Gopalapuram,Chennai,Homely,200.0,4.3,1000,"Home Food,North Indian,South Indian,Beverages,Chettinad,Combo,Desserts,Hyderabadi,Indian,Lucknowi,Maharashtrian,Mangalorean,Punjabi,Rajasthani,Snacks,Sweets,Thalis",Royapettah,52
+201726,Old Washermanpet,Chennai,Spicy Tadka,300.0,4.3,20,"Chinese,Indian,Italian,Mexican",Royapettah,59
+204576,Thousand Lights,Chennai,Royal Fast Food,200.0,3.8,20,"Chinese,Fast Food,Indian",Nungambakkam,49
+206586,Ponniammanmedu,Chennai,Jannath Chicken,250.0,2.7,20,Indian,Madhavaram - Manali,75
+208829,Royapuram,Chennai,Kulfi Treat,200.0,2.9,80,Ice Cream,Suriya Narayana Road,58
+211185,Periyamet,Chennai,Mcrennett,350.0,4.3,20,Bakery,Purasawalkam,37
+211814,T Nagar,Chennai,Kommune,350.0,2.9,80,"Desserts,Italian,North Indian,Salads",T Nagar,65
+212592,Cit Nagar,Chennai,Arcot Royal Biriyani And Fastfood,200.0,3.5,50,"Biryani,Fast Food",T Nagar,71
+212837,Alwarpet,Chennai,Teppan,1000.0,4.6,20,Japanese,Alwarpet,75
+216980,Vadapalani,Chennai,Masala Street,50.0,3.5,20,"Chinese,Continental,South Indian,Italian",Vadapalani,85
+217781,Alwarpet,Chennai,Ricky'S Cookies,300.0,4.9,20,"Cafe,Snacks",Alwarpet,70
+218634,Ayanavaram,Chennai,Food Finger,200.0,4.2,20,Indian,Kilpauk,57
+218650,Teynampet,Chennai,Kake Da Punjabi Dhabba,350.0,4.2,500,"North Indian,Punjabi,Thalis,Biryani,Combo,Desserts",Alwarpet,64
+220046,Mylapore,Chennai,Food Point,200.0,4.2,20,"Juices,Snacks",Mylapore,56
+221321,Anna Nagar,Chennai,Chai Truck,200.0,4.1,500,"Continental,American,Fast Food,Beverages",Annanagar,76
+221798,Annanagar East,Chennai,Madro Cafe,300.0,4.1,20,"Italian,Mexican,Continental",Annanagar,70
+221870,Periyamet,Chennai,Creamee N Spicee,300.0,2.9,80,"Fast Food,Pizzas",Purasawalkam,37
+222720,Cit Nagar,Chennai,Mandarin Oak- The Heavenly Chinese,350.0,4.1,20,"Chinese,Asian,Thai",Cit Nagar,94
+223936,Triplicane,Chennai,Mamieyaar Veedu,400.0,4.1,20,"Chettinad,South Indian",Royapettah,49
+224426,Purasaiwakkam,Chennai,Faasos,200.0,4.2,100,"Combo,Snacks,Beverages,Desserts,Indian",Purasaiwakkam,46
+224427,Purasaiwakkam,Chennai,Behrouz Biryani,500.0,4.2,100,"Biryani,Mughlai,Lucknowi,Hyderabadi,Kebabs,North Indian,Persian,Desserts",Purasaiwakkam,48
+224428,Purasaiwakkam,Chennai,Oven Story Pizza,600.0,4.1,100,Pizzas,Purasaiwakkam,51
+224429,Purasaiwakkam,Chennai,Firangi Bake,400.0,4.3,50,"Italian,Mexican,Pastas",Purasaiwakkam,51
+224430,Purasaiwakkam,Chennai,Sweet Truth - Cake And Desserts,450.0,4.2,50,"Ice Cream,Bakery,Desserts,Beverages",Purasaiwakkam,47
+224431,Purasaiwakkam,Chennai,The Good Bowl,400.0,4.2,50,"North Indian,Punjabi,Biryani,Combo,Chinese,Beverages,Desserts,Jain,Indian,Hyderabadi,Mughlai",Purasaiwakkam,46
+224432,Purasaiwakkam,Chennai,The Biryani Life,250.0,4.1,50,"Biryani,Hyderabadi,Lucknowi,North Indian,Mughlai,Combo,Desserts",Purasaiwakkam,50
+224601,Egmore,Chennai,Tic Tac Rolls (Since 1981),250.0,3.7,50,"Fast Food,Tandoor,Biryani",Egmore,37
+225573,Purasaiwakkam,Chennai,Kekiz - The Cake Shop,200.0,2.9,80,"Bakery,Desserts,Beverages",Purasawalkam,44
+225911,Purasaiwakkam,Chennai,The Great Wall Of China,300.0,2.9,80,Chinese,Purasawalkam - The Great Wall Of China,44
+225917,Purasaiwakkam,Chennai,Taj Mughalai,300.0,4.4,20,"Biryani,North Indian,South Indian,Chinese",Purasawalkam - Taj Mughalai,38
+227153,Teynampet,Chennai,Lucky Da Punjabi Dhabba,350.0,4.2,100,"Punjabi,North Indian,Thalis,Kebabs,Tandoor",Alwarpet,66
+227447,Kilpauk,Chennai,Waffle Shack,200.0,2.9,80,"Bakery,Desserts",Kilpauk,49
+227678,Alwarpet,Chennai,Phuket Street,750.0,4.4,100,Thai,Alwarpet,66
+231446,Thousand Lights,Chennai,Fresh Pressery Cafe,500.0,4.5,500,"Healthy Food,Cafe,Desserts",Royapettah,49
+233117,Anna Nagar,Chennai,Juisome,200.0,4.2,100,"Continental,Juices,Beverages",Annanagar,73
+233743,George Town,Chennai,Dark Smoke Bbq Restaurant,300.0,3.9,100,"Barbecue,Indian",Royapuram,45
+238506,Alwarpet,Chennai,Grow Fit,300.0,4.2,500,"Healthy Food,North Indian,Combo",Alwarpet,64
+238697,Perambur,Chennai,Master Oru Tea,80.0,3.8,100,Indian,Perambur,52
+239364,Nungambakkam,Chennai,Lo Cal By Dumbell,250.0,4.2,100,"Healthy Food,Indian,Keto,Desserts",Nungambakkam,72
+239645,Balavinayagar Nagar,Chennai,Mumbai Kulfi,150.0,4.4,50,"Ice Cream,Snacks,Beverages",Mmda Colony Balavinayagar Nagar,64
+239650,Egmore,Chennai,Yalla Pizza,250.0,4.2,20,"Pizzas,Pastas,Italian",Ashok Nagar,45
+239920,Perambur,Chennai,Chennai Mugil Soup,200.0,2.9,80,Fast Food,Thiru.Vi.Ka.Nagar,59
+239924,T Nagar,Chennai,Anburaj Resturant Briyani & Fast Food,250.0,4.1,100,"Biryani,North Indian",T Nagar,59
+240435,Kilpauk,Chennai,Hungsters,300.0,4.2,100,Fast Food,Landons Road,52
+242424,T. Nagar,Chennai,Paradise Biryani,400.0,4.0,1000,"Biryani,Kebabs",Thanikachalam Road,65
+242554,Old Washermanpet,Chennai,Atho Man Ecstasy,300.0,2.9,80,"Chaat,Chinese,Desserts,Fast Food,Ice Cream,Italian,Snacks",Royapuram,60
+243195,Old Washermanpet,Chennai,Super Shawarma,250.0,3.4,20,Indian,Korukkupet,56
+244401,George Town,Chennai,Srishti Snacks,250.0,4.3,20,Indian,Kondithope,51
+244704,Perambur,Chennai,Cafe Mingles,200.0,3.8,100,"Lebanese,Arabian,Beverages",Perambur,55
+244709,Mylapore,Chennai,Srinivasan Andhra Mess,250.0,3.6,100,Indian,Mylapore,52
+246169,Thousand Lights,Chennai,Batter,300.0,4.1,50,"Desserts,Ice Cream",Nungambakkam,39
+246268,George Town,Chennai,Hotel Prayag,300.0,3.9,100,Indian,George Town,37
+246826,Thousand Lights,Chennai,Iyer'S Delight - Nungambakkam,200.0,4.3,100,South Indian,Nungambakkam,53
+246835,Egmore,Chennai,China Town,500.0,4.5,100,Chinese,Egmore,37
+248171,Anna Nagar,Chennai,Yaa Mohaideen Biryani,600.0,3.9,500,Biryani,Annanagar,63
+248444,Arumbakkam,Chennai,Hotel Pandia'S - (Cmbt),400.0,4.2,100,"Biryani,Chettinad,Chinese,South Indian",Koyembedu,72
+251318,Kodambakkam,Chennai,Rasna Buzz,200.0,2.9,80,Beverages,Vadapalani,76
+251550,Nungambakkam,Chennai,Tandoori Dhaba,350.0,4.3,100,"North Indian,Punjabi,Tandoor,Mughlai,Indian,Lucknowi,Combo",Nungambakkam,52
+253448,Kotturpuram,Chennai,Pizzeria By Ciclo,500.0,4.1,50,Pizzas,Kotturpuram,74
+253955,Anna Nagar,Chennai,Curry Box,150.0,4.3,100,Indian,Annanagar,69
+255752,Perambur,Chennai,Dfc Pizza,200.0,2.9,80,Italian,Perambur,73
+257095,Chetpet,Chennai,Abbys,250.0,4.1,50,"South Indian,North Indian,Snacks,Combo,Beverages",Chetpet,47
+257162,Periyamet,Chennai,The Brooklyn Creamery - Healthy Ice Cream,200.0,4.7,20,"Healthy Food,Desserts,Ice Cream",Vepery,27
+259101,Mmda Colony,Chennai,Sandwich Master,250.0,2.9,80,"Indian,Snacks,Fast Food",Kazhipattur,68
+260926,Raja Annamalai Puram,Chennai,All Day Breakfast Company,300.0,4.5,500,"Beverages,Indian",Alwarpet,69
+261435,Purasaiwakkam,Chennai,Pizza Square (Pursaiwakkam),300.0,2.9,80,Pizzas,Adyar,44
+261581,Thousand Lights,Chennai,The Samosa Factory,200.0,4.5,500,Snacks,Nungambakkam,46
+263224,Anna Nagar,Chennai,Reena Paul'S Kitchen (Unit Of Richnrich),300.0,4.3,500,Indian,Annanagar,67
+264219,Kilpauk,Chennai,Dindigul Kilappu Kadai,350.0,4.0,100,"South Indian,Biryani,Fast Food",Annanagar,51
+265890,Villivakkam,Chennai,Madras	Shawarma,150.0,4.4,20,Snacks,Villivakkam,63
+266154,Teynampet,Chennai,Canvas By Sketch,1200.0,4.4,100,"Continental,Asian,Italian,Indian",T Nagar,71
+266165,Gopalapuram,Chennai,Kai Manam,300.0,4.2,1000,"South Indian,Chettinad,Chinese,Biryani,Combo,Home Food",Royapettah,50
+267529,Thousand Lights,Chennai,Kcdas,300.0,4.5,100,"North Indian,Snacks,Chaat,Sweets",Nungambakkam,40
+267821,Triplicane,Chennai,Amrin Biriyani,250.0,4.3,20,Biryani,Royapettah,41
+269001,Thousand Lights,Chennai,Chai Glass,200.0,3.9,100,"Desserts,Bakery,Beverages,Snacks,Pastas",Kannammai Building Anna Salai,52
+271950,Ayanavaram,Chennai,Sri Raghavendra Mess,175.0,4.3,500,"South Indian,North Indian,Chinese",Ayanavaram,55
+274120,Nungambakkam,Chennai,Tandoori Combo Co,300.0,4.4,100,"North Indian,Indian,Tandoor,Mughlai,Lucknowi,Combo",Nungambakkam,50
+277440,Egmore,Chennai,The	Pepper	Fry,150.0,2.9,80,Fast Food,Nungambakkam,39
+277865,Chennai,Chennai,Ck'S Bakery,150.0,2.9,80,"Bakery,Fast Food",Nungambakkam,46
+278862,T. Nagar,Chennai,Coal Barbecues Express,1400.0,2.8,20,Barbecue,Bazlullah Road,92
+280507,T. Nagar,Chennai,Courtyard By Marriott,700.0,4.3,100,"Biryani,Combo,Pizzas,Home Food,Indian,Continental,Chinese,Asian",T Nagar,67
+282240,Choolaimedu,Chennai,Al Darik Beef Briyani,200.0,3.8,100,South Indian,Vadapalani,65
+282497,Nungambakkam,Chennai,Achayathis Restaurant,600.0,4.3,1000,Kerala,Nungambakkam,63
+282620,Anna Nagar,Chennai,Bunwich,200.0,3.5,20,"Beverages,Fast Food",Annanagar,78
+284472,Annanagar East,Chennai,Quality Fast Food,400.0,3.8,20,"Chinese,Indian",Annanagar,56
+285460,Anna Nagar West Extension,Chennai,The Shawarma Joint,250.0,4.1,50,North Indian,Mogappair,85
+286175,Raja Annamalai Puram,Chennai,Spectra At The Leela Palace,1200.0,2.9,80,"North Indian,South Indian,Pan-Asian,Continental,Biryani,Pizzas",Adyar,86
+286182,Anna Nagar,Chennai,Noodle Doodle,250.0,3.7,20,"Chinese,Combo,Tibetan",Annanagar,70
+286609,Choolaimedu,Chennai,The Madras Shawarma,200.0,4.2,20,Indian,Choolaimedu,61
+288523,Vadapalani,Chennai,Eame'S & Semmy'S Annapoorni Kitchen,250.0,4.3,100,"Andhra,South Indian,North Indian,Biryani",Vadapalani,86
+288878,Egmore,Chennai,Oasis - Radisson Blu Hotel,600.0,2.9,80,"Chinese,Indian",Egmore,53
+289028,Egmore,Chennai,The Great Kabab Factory,600.0,2.9,80,Kebabs,Egmore,51
+290788,Anna Nagar,Chennai,Arabian Delights,400.0,4.3,20,"Arabian,Indian,Chinese",Annanagar,74
+290802,Kodungaiyur,Chennai,Lemone Juice Bar,300.0,3.8,50,Beverages,Madhavaram - Manali,76
+292776,Mylapore,Chennai,Bread Boutique By Brew Room,300.0,4.3,100,"Bakery,Desserts",Mylapore,55
+293868,T. Nagar,Chennai,That Mallu Joint,250.0,4.3,100,"South Indian,Kerala",T Nagar,74
+293933,Alwarpet,Chennai,Tossed By Koox - Gourmet Diy Box Kits,350.0,2.9,80,"Pizzas,Pastas,Asian,Desserts,Snacks,Beverages",City Centre,81
+295326,Nungambakkam,Chennai,Vel Chettinadu Hotel,200.0,4.2,100,Indian,Nungambakkam,47
+295399,Teynampet,Chennai,Welcomhotel Chennai - Flavours,1000.0,2.9,80,"Indian,Continental",Catherdal Road,68
+297562,Purasaiwakkam,Chennai,Slay Coffee,200.0,3.8,20,"Beverages,Desserts",Purasaiwakkam,49
+298317,Gopalapuram,Chennai,Schezwan Wok,300.0,4.0,500,"Chinese,Beverages",Royapettah,58
+299150,26,Chennai,Malabar Point,450.0,4.2,100,"Biryani,Kerala,South Indian,Thalis",Alwarpet (Malabar Point),58
+299311,Jamalia,Chennai,Waffle Dreams,200.0,2.9,80,"Beverages,Desserts,Snacks",Perambur,52
+299435,Perambur,Chennai,Arabian Express,300.0,4.4,20,"Indian,Arabian",Perambur,65
+299750,Alwarpet,Chennai,Dakshin At Crowne Plaza Chennai,300.0,4.5,20,"North Indian,Indian,Salads,Biryani,Chinese,Juices,Desserts",Austin Nagar,69
+299751,Alwarpet,Chennai,Cappuccino At Crowne Plaza Chennai,300.0,4.5,20,"North Indian,Indian,Salads,Biryani,Chinese,Juices,Desserts",Austin Nagar,77
+301073,Kilpauk,Chennai,Rolls On Wheels,200.0,2.9,80,"Ice Cream,Beverages,Fast Food",Kilpauk,51
+301768,Thousand Lights,Chennai,Sri Krishna Mess,200.0,3.7,100,"South Indian,Chinese",Nungambakkam,40
+302572,Chetpet,Chennai,Armaani Biryani,250.0,3.6,50,"Biryani,Arabian,Chinese",Mogappair,57
+303884,Kodambakkam,Chennai,Venkateswara Veg Restaurant,100.0,4.6,50,South Indian,Kodambakkam,61
+304068,Anna Nagar,Chennai,Writer'S Express,400.0,3.9,100,European,Annanagar,64
+304729,Anna Nagar,Chennai,Indian Kitchen By Sigree,400.0,4.1,20,"Indian,North Indian,Mughlai,Biryani,Punjabi",Anna Nagar East,70
+305191,Vadapalani,Chennai,Aps Chat,200.0,4.2,20,Fast Food,Kodambakkam,83
+305538,Thousand Lights,Chennai,Maalgaadi By Dhaba Estd 1986 Delhi,300.0,4.3,1000,"North Indian,Indian,Biryani,Punjabi,Kebabs,Grill,Mughlai,Desserts",Nungambakkam,51
+306341,Alwarpet,Chennai,Les	Amis,300.0,4.5,100,"Italian,Desserts,Ice Cream",Alwarpet,61
+306434,Mylapore,Chennai,Malgudi - The Savera Hotel,2500.0,4.1,50,"North Indian,South Indian",Mylapore,62
+306438,T. Nagar,Chennai,Grt Cloud Kitchens - T Nagar,1200.0,4.5,100,"North Indian,South Indian,Chinese",T Nagar,74
+306906,Perambur,Chennai,Sakthi A Hot Soup,100.0,2.9,80,Indian,Perambur,62
+307058,Kodambakkam,Chennai,Murugan Kaappi,50.0,4.1,100,"Cafe,Snacks,Continental",Vadapalani,78
+307782,Thousand Lights,Chennai,Barbeque Nation,600.0,3.6,100,"North Indian,Mughlai,Seafood,Biryani,Desserts,Kebabs",Bergamo   Mall,50
+307870,Kodungaiyur,Chennai,Vip Sea Foods,200.0,2.9,80,Indian,Perambur,65
+309024,T. Nagar,Chennai,Main Street - The Residency Towers,1200.0,4.2,20,"Indian,Italian,Biryani",T Nagar,78
+309220,Teynampet,Chennai,The Bowl Biryani,300.0,3.6,20,"Biryani,Chinese,Fast Food",T Nagar,67
+310078,Kilpauk,Chennai,Chilly Tales Eataliano,200.0,2.9,80,Indian,Kilpauk,49
+311264,Cit Nagar,Chennai,Topi Vappa Biriyani,300.0,3.8,20,"Biryani,Indian,Chinese,South Indian",T Nagar,71
+311652,Chennai,Chennai,Fb Cakes,200.0,4.1,100,Bakery,Egmore,45
+313075,Old Washermanpet,Chennai,Swizo,300.0,2.9,80,"Chinese,Biryani,Fast Food,Beverages",Royapuram,57
+314563,Anna Nagar,Chennai,Asia Kitchen By Mainland China,850.0,4.4,20,"Asian,Chinese,Oriental",5Th Avenue,76
+314828,Thousand Lights,Chennai,Copper Chimney,900.0,4.2,100,"Indian,North Indian,Kebabs,Grill,Biryani",Thousand Lights,47
+314832,Chintadripet,Chennai,Murudis Lunch Home,150.0,4.4,100,"South Indian,Chinese",Egmore,31
+315787,Teynampet,Chennai,Atti Square,300.0,4.3,50,Indian,Alwarpet,56
+316146,Purasaiwakkam,Chennai,Smokey Shawarma,250.0,3.6,100,"Fast Food,Biryani,Chinese,Desserts",Purasawalkam,40
+316708,Purasaiwakkam,Chennai,Spice Hub Vada Pav,200.0,4.6,20,"Snacks,Fast Food",Purasawalkam,39
+316772,Madhavaram,Chennai,Idlicurry,150.0,4.0,100,South Indian,Perambur,66
+317843,Ea Mall Royapettah,Chennai,Punjab Grill,700.0,4.3,50,"North Indian,Indian,Biryani,Punjabi,Kebabs,Mughlai,Desserts",Express Avenue,54
+317963,Teynampet,Chennai,Vr Cafe,400.0,2.9,80,"Cafe,Bakery",T Nagar,71
+318344,Triplicane,Chennai,Oyalo Pizza,350.0,4.3,50,Pizzas,Triplicane,46
+318818,Choolaimedu,Chennai,Star Taj Hotel & Fast Food,400.0,2.9,80,North Indian,Arumbakkam,61
+319658,Perambur,Chennai,Green Pepper,300.0,3.6,20,"Indian,Chinese,Biryani",Perambur,64
+320194,Alwarpet,Chennai,Lola'S Pizzeria,1200.0,4.6,500,"Pizzas,Italian",Alwarpet,71
+320326,Egmore,Chennai,Grill Wagon,200.0,2.9,80,Indian,Nungambakkam,49
+320960,Purasaiwakkam,Chennai,That Waffle Place!,200.0,4.5,100,Desserts,Purasaiwakkam,49
+321070,Thousand Lights,Chennai,Mount Road Social,600.0,4.3,100,"Indian,Chinese,South Indian,American,Fast Food,Kebabs,Mughlai,Biryani,Combo",E Hotel,52
+321082,Triplicane,Chennai,Sha Cafe,70.0,2.9,80,"Beverages,Snacks,Cafe,Indian,Chinese,Tandoor,Kebabs",Royapettah,58
+321529,Kilpauk,Chennai,Vadilal Ice Creams,300.0,2.9,80,Desserts,Kilpauk,46
+321801,Triplicane,Chennai,Cake Galatta,100.0,2.9,80,"Desserts,Bakery,Continental,Pizzas",Royapettah,43
+322555,Teynampet,Chennai,Fabelle Chocolates - Itc Welcomhotel,600.0,4.6,50,"Bakery,Desserts,Sweets",Cathedral Road,59
+323040,Anna Nagar,Chennai,Ram'S Tea House,100.0,4.6,50,Beverages,Annanagar,69
+323161,Shenoy Nagar,Chennai,Just 79/- Only,150.0,3.9,100,"Chinese,Beverages,Desserts",Annanagar,52
+323166,Alwarpet,Chennai,Food Cravings,200.0,2.9,80,"Chinese,Grill",Alwarpet,59
+323801,Arumbakkam,Chennai,Tea Time,300.0,2.9,80,"Beverages,Snacks,Fast Food",Annanagar,60
+324676,Shenoy Nagar,Chennai,Tito'S Pan-Tree,300.0,2.9,80,"Cafe,Snacks,Fast Food",Annanagar,60
+324886,Nungambakkam,Chennai,Dish-Yum,250.0,3.0,20,Indian,Nungambakkam,55
+325190,Annanagar East,Chennai,Myfroyoland Frozen Yogurt,300.0,2.9,80,"Desserts,Ice Cream",Annanagar,53
+325548,Purasaiwakkam,Chennai,Compani - Great Combos,200.0,2.9,80,North Indian,Secretariat Colony,54
+326465,Vadapalani,Chennai,Oriental Majik,200.0,2.9,80,Indian,Vadapalani,85
+327003,Kilpauk,Chennai,Pacifica - Beverly Hotel,600.0,2.9,80,"Chinese,North Indian",Rajarathinam Road,49
+328174,Kilpauk,Chennai,Hameedia Valima Biryani,300.0,2.9,80,Biryani,Kilpauk,50
+328527,Perambur,Chennai,Lassi Corner,150.0,2.9,80,Beverages,Perambur,63
+329340,Ayanavaram,Chennai,Atho Kadai,150.0,4.1,50,"Street Food,Burmese,Fast Food",Kilpauk,44
+329461,Anna Nagar,Chennai,Bakkings Elite,300.0,2.9,80,"Bakery,Fast Food,Snacks,Pizzas,Italian-American",Annanagar,73
+329881,T. Nagar,Chennai,The Madras Pizzeria,500.0,2.9,80,Pizzas,Nungambakkam,65
+330550,Purasawalkam,Chennai,Id (Contemporary South Indian),400.0,4.1,20,"South Indian,Beverages",Purasawalkam,40
+331093,Royapettah,Chennai,Pasta Brasserie,200.0,3.8,20,"Italian,Pizzas,Pastas,Snacks,Beverages",Kilpauk,52
+331189,Purasawalkam,Chennai,Id Coffee,200.0,2.9,80,"Beverages,Snacks",Purasawalkam,40
+331192,Purasawalkam,Chennai,Dosa & Co.,400.0,2.9,80,South Indian,Purasawalkam,46
+331477,Royapettah,Chennai,Celebration,250.0,4.0,100,"Continental,Desserts,Beverages",Royapettah,48
+331570,Shenoy Nagar,Chennai,Karaikudi Aachi Biryani,200.0,4.1,1000,"Biryani,Indian,Chinese",Arumbakkam,51
+331585,Santhome,Chennai,The Kati Roll Shop Express,200.0,3.9,100,"Street Food,Mexican,Chinese",Mylapore,70
+332331,Egmore,Chennai,Burgerman,400.0,4.4,100,"American,Snacks,Continental",Egmore,36
+332843,Kodambakkam,Chennai,Kebabistaan,300.0,3.8,100,"Biryani,Kebabs,Desserts",Kodambakkam,70
+333209,Perambur,Chennai,Popcorn House,150.0,2.9,80,Indian,Perambur,68
+333438,Nungambakkam,Chennai,Down Sterling,200.0,2.9,80,"Continental,Snacks,Fast Food",Nungambakkam,59
+333553,Teynampet,Chennai,Brindhavan Veg Restaurant,300.0,4.1,20,Indian,T Nagar,64
+335152,Anna Nagar,Chennai,Hakka Xpress (Chinese),300.0,4.3,100,"Chinese,Fast Food,Snacks,Combo,Asian",Annanagar,71
+335168,Anna Nagar,Chennai,Orange Wok,500.0,4.0,100,"Chinese,Beverages,Desserts,Combo",Annanagar,70
+335636,Choolaimedu,Chennai,Zwarma,200.0,2.9,80,"Snacks,Fast Food,Pizzas,Arabian,Beverages",Vadapalani,62
+336007,Arumbakkam,Chennai,Hold On,150.0,2.9,80,"Continental,Juices,Snacks,Beverages",Arumbakkam,70
+336100,Shenoy Nagar,Chennai,Chaihood,100.0,4.4,20,"Snacks,Beverages",Annanagar,53
+336146,Anna Nagar,Chennai,Alibaba Shawarma And 40 Dishes,300.0,4.1,100,"Arabian,Kebabs,Snacks",Annanagar,61
+336514,Egmore,Chennai,Balaji Sandwich Stall,200.0,4.6,20,"Snacks,Continental",Egmore,40
+337198,Mylapore,Chennai,Ciro'S Pizzeria,1000.0,4.4,100,"Pizzas,Italian,Continental,American,Desserts",Royapettah,60
+337395,Mylapore,Chennai,Only Combo'S,400.0,2.9,80,"Chinese,Combo",Mylapore,59
+338051,Raja Annamalai Puram,Chennai,Mini'S Cookhouse,300.0,4.4,20,"South Indian,Snacks,Fast Food",Mylapore,77
+338345,Annanagar East,Chennai,Fajz Biryani Biz,200.0,3.6,100,"Biryani,Chinese",Annanagar,62
+339221,Kolathur,Chennai,Mb Wings,300.0,2.9,80,Continental,Perambur,76
+339245,George Town,Chennai,Cake Square,400.0,2.9,80,Bakery,George Town,65
+339300,Old Washermanpet,Chennai,Amul Ice Creams,300.0,2.9,80,Ice Cream,Royapuram,57
+339688,Thousand Lights,Chennai,Bun Kebab,120.0,2.9,80,"Kebabs,Beverages,Snacks",Royapettah,59
+339828,Perambur,Chennai,Hungry Town,300.0,4.0,50,"Indian,Chinese",Perambur,54
+340188,Anna Nagar,Chennai,Shawarma Kings,200.0,4.2,100,"Arabian,Mediterranean",Annanagar,65
+340297,West Mambalam,Chennai,The Indie Frost,250.0,2.9,80,"Beverages,Pastas,Desserts,Healthy Food,Continental",West Mambalam,81
+340417,Raja Annamalai Puram,Chennai,Madras Kebab Factory,300.0,2.9,80,"Indian,Chinese,Biryani,Arabian,Seafood",T Nagar,78
+341023,Nandanam,Chennai,The Butterfly Effect Cafe,700.0,2.9,80,"Chinese,Beverages,Bakery",T Nagar,80
+341438,Egmore,Chennai,Babal Da Punjabi Dabha,500.0,4.3,1000,"North Indian,Punjabi,Indian,Thalis,Kebabs",Purasawalkam,37
+341495,Anna Nagar,Chennai,Tiktalk Cafe,250.0,4.1,20,Indian,Annanagar,71
+341614,Tondiarpet,Chennai,Dikshan Food Corner,350.0,2.9,80,"South Indian,Chinese",Royapuram,77
+341762,Perambur,Chennai,The Crunchy Club,150.0,2.9,80,Fast Food,Perambur,64
+342569,Nungambakkam,Chennai,Mex It Up,500.0,4.1,20,"Mexican,Beverages",Nungambakkam,72
+343071,Anna Nagar,Chennai,6 Flavours,300.0,3.5,20,"North Indian,Chinese,Tandoor,Grill,Barbecue",Annanagar,73
+343220,Purasaiwakkam,Chennai,Royal Sandwich,200.0,4.0,20,Fast Food,Purasawalkam,34
+343667,Egmore,Chennai,Burmese Tea House,200.0,3.9,100,"Snacks,Chinese",Egmore,37
+345144,George Town,Chennai,Cream And Fudge,200.0,2.9,80,Indian,George Town,49
+345184,Perambur,Chennai,The Rameez Home Kitchen,250.0,2.7,20,"Italian,Snacks",Perambur,70
+346006,Mylapore,Chennai,Bayleaf Otg,300.0,4.5,50,"North Indian,Bengali,Biryani",Alwarpet,65
+346051,Thousand Lights,Chennai,Trattoria By Toscano,800.0,4.4,500,"Italian,Pizzas,Pastas,Continental,Salads,Desserts,Beverages,Combo",Nungambakkam,51
+346118,Kodungaiyur,Chennai,Arasan Bakery & Ice Cream,100.0,4.5,20,"Bakery,Ice Cream",Perambur,65
+346588,Tiruvalleeswarar Nagar,Chennai,Sangeetha Veg (Vr Mall),200.0,4.2,20,Indian,Mogappair,82
+348461,Anna Nagar,Chennai,Collage By Toscano,600.0,4.2,100,"Italian,Indian,Asian,Pizzas,Pastas,Salads,Desserts",Jawaharlal Nehru Road,82
+348518,Perambur,Chennai,A M Biryani,350.0,3.7,20,"Biryani,Chinese,Fast Food,Snacks",Perambur,72
+348560,Perambur,Chennai,Donut Hubb,300.0,2.9,80,"Fast Food,Beverages",Ayanavaram,69
+348635,Mylapore,Chennai,Devakottai Chettinad,300.0,4.1,50,"Biryani,North Indian,Chinese,Snacks,Fast Food",Mylapore,56
+349522,Perambur,Chennai,Chennai Classic Cakes,250.0,4.6,20,"Bakery,Continental,Pizzas",Perambur,58
+350532,Anna Nagar,Chennai,Virudhunagar Poricha Parotta,300.0,3.8,100,"Biryani,Beverages,Indian",Annanagar,67
+352355,Kilpauk,Chennai,Pastry Maniaa,200.0,4.7,100,"Desserts,Pizzas,Pastas,Continental,Bakery",Annanagar,59
+352646,Kilpauk,Chennai,Dindigul Kulambu Kadai,450.0,4.1,100,"Chettinad,South Indian",Annanagar,51
+352648,Kilpauk,Chennai,Fish N You,450.0,3.9,100,Seafood,Annanagar,54
+353121,Arumbakkam,Chennai,Square Ruth,400.0,4.3,100,"American,Mexican,Pastas",Arumbakkam,69
+353212,Kilpauk,Chennai,Chinese Panda,450.0,3.7,20,"Chinese,Fast Food",Annanagar,55
+353368,Thousand Lights,Chennai,Paratha Bros By Ibis,400.0,4.3,100,North Indian,Anna Sailai,57
+353871,Tondiarpet,Chennai,Daily Fresh Ice Creams,100.0,2.9,80,Ice Cream,Royapuram,70
+353967,Egmore,Chennai,Platez,100.0,2.9,80,"Indian,Continental",Egmore,48
+354877,Thousand Lights,Chennai,Dr Bubbles,350.0,4.4,100,"Beverages,Snacks,Juices,Bakery,Desserts",Nungambakkam,46
+355245,Gopalapuram,Chennai,Degh Biryani,400.0,2.9,80,Biryani,Royapettah,53
+355673,Perambur,Chennai,Guru Baba Store,150.0,4.3,100,"Snacks,Chaat",Ragava Street,52
+355835,West Mambalam,Chennai,Ss Hyderabad Biryani,300.0,4.3,1000,Biryani,Mylapore,71
+356231,Annanagar East,Chennai,Davara Coffee,100.0,2.9,80,Indian,Annanagar,58
+356479,Balavinayagar Nagar,Chennai,Ambur Biriyani Since 1967,300.0,3.9,100,Biryani,Arumbakkam,55
+357681,Annanagar East,Chennai,The Void,1000.0,4.3,20,"South Indian,North Indian,Chinese,Continental,Tandoor",Annanagar East Brindavan Colony,64
+357912,Old Washermanpet,Chennai,Kfc,400.0,4.1,1000,"American,Snacks",Royapuram Kalmandapam,59
+358102,Anna Nagar,Chennai,Pg Junk Spot,300.0,2.9,80,"Fast Food,Continental,Snacks,Beverages",Annanagar,74
+360757,Mylapore,Chennai,Bowld,300.0,4.3,100,South Indian,Mylapore,64
+361549,Anna Nagar West Extension,Chennai,Kobe Sizzlers,500.0,4.5,20,"Chinese,Continental,Fast Food",Annanagar,89
+361692,T. Nagar,Chennai,Pulusu T Nagar,500.0,3.9,100,"Andhra,Indian,Tandoor,Beverages,Chinese,Biryani,Hyderabadi",T Nagar,70
+362050,Kodambakkam,Chennai,Komala`S Kitchen,500.0,2.9,80,South Indian,Kodambakkam,72
+362366,Kilpauk,Chennai,Desii Firangi,280.0,4.1,20,"Chinese,Indian,Italian,Chaat",Kilpauk,46
+363011,Anna Nagar,Chennai,Habibi,900.0,4.1,20,"Arabian,Barbecue,Afghani,Combo,Greek,Grill",Annanagar,72
+363359,Perambur,Chennai,Ss Muslim Briyani,250.0,3.9,100,"Biryani,Chinese,South Indian",Perambur,57
+363639,Annanagar East,Chennai,Classic Rider Cafe,250.0,3.5,20,Indian,Annanagar,64
+364331,Anna Nagar,Chennai,The Living Room,1200.0,4.5,50,"South Indian,North Indian,Tandoor,Mediterranean,Continental,Mongolian",Annanagar,68
+364641,Teynampet,Chennai,The Big Eat,400.0,4.2,50,"Continental,Asian,Italian",Alwarpet,64
+364811,T. Nagar,Chennai,Khalids Biriyani,500.0,4.0,500,Biryani,T Nagar,66
+364970,Cit Nagar,Chennai,The Royal Snacks,200.0,2.9,80,Pizzas,T Nagar,81
+365680,Mandaveli,Chennai,Kaapi Zone,200.0,2.9,80,"Snacks,Beverages,Chinese",Mylapore,72
+366043,Koyambedu,Chennai,Keerthana Food Center,200.0,2.9,80,"Biryani,Chinese,Indian",Koyambedu,77
+366441,Teynampet,Chennai,Krunchees,300.0,2.9,80,"Chinese,Biryani,Chaat,Beverages",Alwarpet,73
+367108,Villivakkam,Chennai,Csoning Shawarmas,200.0,2.9,80,Fast Food,Nungambakkam,69
+367297,Tiruvalleeswarar Nagar,Chennai,Monkey Bar,1400.0,2.9,80,"North Indian,American,European,Asian",Vr Chennai Clock Tower Street,91
+368072,Nungambakkam,Chennai,Kev'S Abra'Kebab'Ra - The Kebab Shack,350.0,4.4,20,"Kebabs,Chinese,Tandoor,Grill",Nungambakkam,57
+368565,Kodambakkam,Chennai,Stone Age Bbq'S,450.0,2.9,80,"Indian,Chinese,Tandoor",Kodambakkam,76
+368651,T. Nagar,Chennai,The Tap House,400.0,2.9,80,"Chinese,Continental,Tandoor",T Nagar,78
+368887,Wallace Garden,Chennai,Coffee? Since 1999,600.0,4.7,100,"Beverages,Continental,Italian,Desserts",Royapettah,50
+369124,Perambur,Chennai,Cake Feast,300.0,4.4,100,"Desserts,Bakery",Kolathur,68
+369125,Perambur,Chennai,Metro Cakes,300.0,4.5,20,Desserts,Kolathur,68
+369448,Gandhi Nagar,Chennai,Atithi Restaurant,250.0,4.1,100,"Indian,Bengali",Nungambakkam,39
+369743,Kilpauk,Chennai,Fusion Kitchen,300.0,4.3,100,"Chinese,Beverages",Annanagar,60
+370034,T. Nagar,Chennai,The Smoothie Cult,160.0,2.9,80,"Beverages,Juices,South Indian",T Nagar,74
+370318,Kodungaiyur,Chennai,Khan Bhai Biriyani,280.0,4.1,100,"Biryani,Chinese",Perambur,63
+370527,Annamalai Colony,Chennai,The Kathi Roll Jail,300.0,4.0,50,"Fast Food,Snacks",Vadapalani,83
+370900,Gopalapuram,Chennai,Jd Cafe,300.0,3.3,20,"Juices,Beverages,Snacks,Desserts",Royapettah,53
+370913,Perambur,Chennai,Metro Burger,350.0,4.2,20,Indian,Perambur,73
+371156,Peravallur,Chennai,Hotel Friends Food Court,250.0,4.1,100,"South Indian,North Indian,Chinese",Peravallur,60
+371393,Perambur,Chennai,The Cake Centre,300.0,4.3,50,Bakery,Perambur,67
+371652,Purasaiwakkam,Chennai,Mad Over Donuts,200.0,4.0,50,"Desserts,Sweets,Bakery",Purasaiwakkam,47
+371799,Aminjikarai,Chennai,Big Show Restaurant,300.0,2.9,80,Indian,Arumbakkam,61
+372310,Thousand Lights,Chennai,Cookie Man,200.0,2.9,80,"Australian,Bakery,Snacks",Royapettah,52
+372429,Gandhi Nagar,Chennai,Cafe Dig In,800.0,2.9,80,"Continental,Desserts,Beverages",Nungambakkam,56
+372669,T. Nagar,Chennai,Fipola Grill House,350.0,3.3,100,"Grill,Seafood,Arabian",T Nagar,65
+372994,Ponniammanmedu,Chennai,Lassi Shop - Kolathur,200.0,4.2,100,"Ice Cream,Beverages,Snacks",Perambur,66
+374113,Anna Nagar,Chennai,Taste Of Italy,300.0,4.3,20,Italian-American,Annanagar,70
+374134,Alwarpet,Chennai,Bread And Chocolate,300.0,4.6,100,"Bakery,Desserts,Fast Food,Snacks",Alwarpet,65
+374173,Nungambakkam,Chennai,Burmese Cafe,280.0,3.9,50,"Indian,Chinese,Burmese",Nungambakkam,49
+374368,Kodungaiyur,Chennai,Italian Kings Park,350.0,2.9,80,"Italian,Snacks",Perambur,70
+375404,Kodungaiyur,Chennai,Shero Home - Sambar Poriyal & Rasam,350.0,4.1,50,"South Indian,Home Food,Healthy Food,Desserts",Madhavaram - Manali,84
+375485,Mylapore,Chennai,Thirsty Inc.,250.0,2.9,80,"Beverages,Juices",Mylapore,71
+375592,Anna Nagar,Chennai,Erode Amman Mess,300.0,4.3,1000,"North Indian,South Indian,Biryani",Annanagar,65
+375657,Vadapalani,Chennai,Yummioza Chinese Restaurant,300.0,2.9,80,Chinese,Vadapalani,80
+375776,Anna Nagar,Chennai,Biggies Burger,300.0,4.1,100,"Fast Food,Beverages,American",Annanagar,70
+376069,Annamalai Colony,Chennai,The Chinese Mealbox (Cmb),300.0,4.0,100,Chinese,Vadapalani,88
+376099,Anna Nagar,Chennai,Kerala Kitchen,200.0,4.0,100,"South Indian,Chinese",Annanagar,67
+376161,Anna Nagar,Chennai,Chinese Wox,300.0,4.6,100,Chinese,Annanagar,68
+376190,Anna Nagar,Chennai,Madurai Military Hotel,300.0,4.2,100,"South Indian,Biryani",Annanagar,63
+376202,Anna Nagar,Chennai,Bangkok Bae,300.0,4.4,50,"Asian,Thai",Annanagar,68
+376260,Nungambakkam,Chennai,Junior Kuppanna,400.0,4.1,1000,"Biryani,South Indian,North Indian",Nungambakkam,59
+376364,Anna Nagar,Chennai,The New Punjab Club,300.0,4.6,20,North Indian,Annanagar,66
+376487,Washermanpet,Chennai,Hotel Pandian,300.0,3.7,100,"Biryani,South Indian,Chinese,Seafood",Washermenpet,61
+376491,Kilpauk,Chennai,London Dessert Co,300.0,3.8,100,"Desserts,Beverages,Snacks",Kilpauk,40
+376645,Koyambedu,Chennai,Firewood Briyani,350.0,2.9,80,"Biryani,Indian,Chinese,Tandoor",Arumbakkam,74
+376990,Perambur,Chennai,Delight Cake Treat,400.0,2.9,80,"Bakery,Desserts",Perambur,53
+377056,T Nagar,Chennai,The Earthen Foods,300.0,3.3,20,"Biryani,Italian,Chinese",T Nagar,70
+377134,T Nagar,Chennai,Subhodayam Restaurant,300.0,3.9,50,"Chinese,South Indian,Andhra,Biryani,Desserts",T Nagar,64
+377176,Nehru Stadium Dark Kitchen Metro Manor Sydenhams,Chennai,Wow! Momo,300.0,4.2,100,"Tibetan,Fast Food,Healthy Food,Asian,Chinese,Snacks,Continental,Desserts,Beverages",Sydenhams Road,30
+377576,Alwarpet,Chennai,Svah Express,500.0,4.2,50,"Indian,Continental,Desserts,Beverages",Alwarpet,77
+377877,Perambur,Chennai,Ziyach Atho Kadai,200.0,4.2,50,"Street Food,Chinese,Indian",Perambur,53
+378112,Kilpauk,Chennai,Kites Pure Veg Restaurant,280.0,2.9,80,Indian,Kilpauk,51
+378205,Annanagar,Chennai,The Asian Hive,300.0,4.3,100,"Chinese,Thai,Asian",Annanagar,63
+378734,T Nagar,Chennai,The Degh Story,900.0,2.9,80,"North Indian,Biryani,Hyderabadi,Indian",City Centre,80
+379083,Perambur,Chennai,Hotel Vada Chennai,350.0,3.8,50,"Arabian,South Indian,Grill,Barbecue,Chinese,Biryani,Combo,Ice Cream,Juices,Beverages",Perambur,53
+379121,Mylapore,Chennai,The Nosh,200.0,2.9,80,"Fast Food,Beverages,Indian,Tandoor",Mylapore,67
+379224,Annanagar,Chennai,Gita'S Homemade,200.0,2.9,80,"Andhra,South Indian,Indian",Annanagar,72
+379342,Alwarpet,Chennai,Flipside (Burgers And Sides),750.0,4.4,100,American,Alwarpet,68
+379718,Perambur,Chennai,Adyar Vaishanava S Thattu Idli Kadai,300.0,4.1,100,South Indian,Perambur,62
+380069,Annanagar,Chennai,Sumac - Middle Eastern Medley,400.0,3.9,20,"Continental,Snacks,Salads",5Th Street Nehru Nagar 13Th Main Road,77
+380114,Annanagar,Chennai,Grillsmith - Flamin' Fare,400.0,4.3,20,"Continental,North Indian,South Indian,Chinese",Annanagar,78
+381060,Chennai,Chennai,Fb Cakes Royapuram,200.0,4.1,100,Bakery,Royapuram,62
+381792,Nungambakkam,Chennai,The Break Room,300.0,2.9,80,"Beverages,Snacks,Fast Food,Chaat,Ice Cream",Nungambakkam,51
+381804,Annanagar,Chennai,Abang Raju'S Nasi Goreng,350.0,2.9,80,"Singaporean,Malaysian",Annanagar,75
+381825,Royapettah,Chennai,The New Moghal Biriyani,300.0,2.9,80,"Biryani,Indian,Chinese",Royapettah,44
+382190,Kilpauk,Chennai,Chai Garden,200.0,2.9,80,"South Indian,Beverages",Kodumbakkam,63
+382194,Kodambakkam,Chennai,Tommys Kitchen,300.0,2.9,80,"Chinese,Indian,Kebabs",Kodumbakkam,65
+382216,Kilpauk,Chennai,Madras Momos,200.0,2.9,80,"Chinese,Combo,Beverages",Kilpauk,65
+382978,George Town,Chennai,Taj Biriyani Center,400.0,2.9,80,"Street Food,Biryani,Indian",George Town,60
+383044,Perambur,Chennai,Billy'S,200.0,2.9,80,"Indian,American,Italian,Continental",Perambur,81
+383270,Egmore,Chennai,Bismi Kebab Corner,200.0,2.9,80,"Biryani,Indian,Chinese",Egmore,46
+383275,Nungambakkam,Chennai,Flavour Of Chettinadu,150.0,2.9,80,"Biryani,Chettinad,South Indian",Nungambakkam,54
+383290,Nungambakkam,Chennai,Dumbir By Kappa Chakka Kandhari,600.0,4.3,100,"Biryani,South Indian,North Indian",Nungambakkam,52
+383421,Alwarpet,Chennai,Chinese Baba,300.0,2.9,80,"Biryani,Barbecue,Chettinad,Chinese",Alwarpet,68
+384598,Kodambakkam,Chennai,Max Restaurant,300.0,2.9,80,"Chinese,Snacks,Desserts,Beverages",Kodambakkam,68
+385371,T Nagar,Chennai,Ab S-Absolute Barbecues,500.0,3.2,50,"North Indian,Mughlai,Chinese,Biryani,Grill,Barbecue,Seafood,Burmese",T Nagar,72
+385607,George Town,Chennai,Turban Mughal Restaurant,700.0,4.4,50,Biryani,George Town,58
+385802,T Nagar,Chennai,Dank,1500.0,2.9,80,Continental,T Nagar,77
+386066,Kilpauk,Chennai,Sri Vaishnavaa'S Chat Shop,250.0,4.4,100,"North Indian,Snacks,Chaat",Kilpauk,47
+386088,Nungambakkam,Chennai,The Thief,1200.0,2.9,80,"Continental,Thai,Italian,Asian,Indian,American",Nungambakkam,65
+386270,Nungambakkam,Chennai,Darjeeling Cafe,300.0,4.4,100,"Street Food,Chinese,Tibetan,North Eastern,Fast Food",Nungambakkam,54
+386565,Alwarpet,Chennai,Cheap & Best Kitchen,500.0,2.9,80,"Biryani,North Indian",Mylapore,63
+386867,Royapettah,Chennai,90Ml,150.0,4.3,50,Beverages,Royapettah,53
+387535,Perambur,Chennai,Maniammal Catering & Homemade Food,200.0,4.1,50,South Indian,Perambur,83
+387880,Perambur,Chennai,Csoning Shawarma Perambur,200.0,2.9,80,Arabian,Perambur,67
+387905,Nungambakkam,Chennai,Heavens Park Restaurant,300.0,4.3,50,"Biryani,Chinese,Arabian,Indian",Nungambakkam,52
+388040,George Town,Chennai,Mathaji Ice Creams,100.0,2.9,80,"Ice Cream,Desserts",George Town,56
+388602,Perambur,Chennai,Niyaz Biriyani,300.0,2.9,80,"Biryani,Chinese,South Indian",Perambur,67
+388667,Nungambakkam,Chennai,Ottoman Baklava,500.0,4.4,100,North Indian,Nungambakkam,46
+389596,Nungambakkam,Chennai,Thoothukudi Macroon,100.0,4.1,20,"Snacks,Sweets",Nungambakkam,53
+390394,George Town,Chennai,Frozen Cafe Juices & Ice Cream,100.0,2.9,80,Indian,George Town,58
+391770,Perambur,Chennai,Jimmy'S Kitchen,300.0,2.9,80,"Arabian,Chinese,Tandoor,Grill,Combo,Beverages",Perambur,63
+392605,Purasawalkam,Chennai,Kwality Walls Frozen Dessert And Ice Cream Shop,300.0,4.2,50,Ice Cream,Purasawalkam High Rd,37
+392850,T Nagar,Chennai,Hotel Harish,300.0,4.0,20,"North Indian,Tandoor,Chinese,South Indian",T Nagar,72
+393148,Annanagar,Chennai,Sree Gupta Bhavan,200.0,4.3,100,North Indian,Annanagar,64
+393526,Annanagar,Chennai,Artinci - Indulge Guilt Free!,200.0,4.2,100,"Ice Cream,Healthy Food,Keto,Desserts,Snacks,Beverages,Bakery",Annanagar,66
+393560,Royapettah,Chennai,Bismilla Fine Dining,250.0,3.2,100,"Biryani,Chinese,Indian,Combo,North Indian",Royapettah,50
+393891,T Nagar,Chennai,Magil Annam,250.0,4.4,20,"South Indian,Biryani,Seafood,Fast Food",T Nagar,66
+394067,Old Wasermenpet,Chennai,Tn 03 Cafe,300.0,2.9,80,"Pizzas,Continental,Desserts,Snacks,Beverages",Thiruvottiyur High Rd,63
+394231,Alwarpet,Chennai,Mearth Cafe,500.0,4.6,20,Healthy Food,Alwarpet,78
+394334,Perambur,Chennai,Neythal Restaurant,300.0,4.2,20,"Biryani,Chinese,Indian",Perambur,69
+395067,Annanagar,Chennai,The Sandwich Club,150.0,2.9,80,"Fast Food,Chaat,Juices,Beverages",Annanagar,73
+395319,Egmore,Chennai,Mcdonald'S Gourmet Burger Collection,600.0,4.3,100,"American,Continental,Fast Food,Desserts,Beverages",Spencer,40
+396592,Vishnu Garden,Chennai,Kadalsaar Unavagam,400.0,2.9,80,"Biryani,South Indian",Lolathur,75
+397567,Annanagar,Chennai,Le Roll Factorie,300.0,2.9,80,"Chinese,North Indian,Continental",Annanagar,69
+397812,Annanagar,Chennai,Mlr Restaurant,450.0,2.9,80,"Indian,Biryani,Asian,Tandoor,Grill,Barbecue",Annanagar,61
+398257,Alwarpet,Chennai,The Old Mirchi Biryani,700.0,4.3,500,"Hyderabadi,Biryani,Indian,Tandoor,Chinese",Alwarpet,60
+398723,Royapettah,Chennai,Ponnusamy Hotel Royapettah,400.0,4.2,100,"South Indian,Biryani,North Indian,Chettinad",Royapettah,50
+398873,Purasawalkam,Chennai,Tropical Fast Food,280.0,2.9,80,"Chinese,Arabian,Indian,Tandoor",Purasawalkam,40
+401500,Nungambakkam,Chennai,Al Baik,500.0,3.3,20,Indian,Nungambakkam,40
+402101,George Town,Chennai,Lassi N Spicy,200.0,3.8,50,"Beverages,Juices,Ice Cream,Snacks,American,Arabian,Grill",Tondiarpet,61
+404220,Vadapalani,Chennai,Sri Balaji Foods And Snacks,180.0,2.9,80,"Snacks,Desserts,Juices,Beverages",West Mambalam,82
+404251,Dr.Radhakrishnan Salai-Mylapore,Chennai,Madrass Marina Mess,300.0,3.9,100,"Indian,Biryani,Sweets,Beverages,Tandoor",Mylapore,54
+404761,Arumbakkam,Chennai,Jack N Jill Foods,300.0,2.9,80,"Chinese,Indian,Biryani",Arumbakkam,62
+404815,Nungambakkam,Chennai,Hotel Virudhunagar Elite,150.0,2.9,80,"Chinese,Biryani,Indian",Nungambakkam,57
+405340,Annanagar,Chennai,Cafe Express,280.0,2.9,80,"Pastas,Chinese,Waffle",Annanagar,72
+405352,T Nagar,Chennai,Gnanambiga Veg,200.0,4.4,500,"South Indian,North Indian,Chaat,Sweets",T Nagar,73
+405458,Vadapalani,Chennai,Smiley,200.0,2.9,80,Chinese,Vadapalani,90
+405502,T Nagar,Chennai,Sin & Tonic,1000.0,2.9,80,"Continental,Indian,Chinese",T Nagar,74
+405573,Perambur,Chennai,Chai World,250.0,4.4,50,"Beverages,Snacks",Perambur,52
+406328,Chennai,Chennai,Perambur Sri Srinivasa Sweets And Snacks,200.0,4.4,100,"Sweets,Chaat,Juices",Arumbakkam,61
+406351,Annanagar,Chennai,The Sugar Free Keto Kafe - By Artinci,200.0,4.4,50,"Bakery,Beverages,Desserts",Annanagar,64
+406903,Arumbakkam,Chennai,Burmese Kitchen,100.0,3.7,50,Burmese,Arumbakkam,67
+407191,Royapettah,Chennai,Flameh Shawarma,220.0,2.9,80,"Arabian,Beverages",Royapettah,53
+407244,Purasawalkam,Chennai,La Pino'Z Pizza,300.0,4.2,100,Pizzas,Purasawalkam,51
+407691,Annanagar,Chennai,Cake Fairy,250.0,2.9,80,"Bakery,Beverages,Pizzas",Annanagar,62
+407755,George Town,Chennai,Sandwich Square,200.0,4.3,50,"Snacks,Pastas,Fast Food,Beverages",George Town,62
+408335,Kilpauk,Chennai,Ponnusamy Hotel  Elite,300.0,4.2,100,Chinese,Kilpauk,48
+408439,Nungambakkam,Chennai,Jamie'S All Day Breakfast,250.0,4.4,50,"American,Fast Food,Beverages",Nungambakkam,45
+408721,Nungambakkam,Chennai,Hotel Sri Guru,280.0,4.2,20,Indian,Nungambakkam,53
+409663,Mylapore,Chennai,Biriyani Venuma,400.0,2.9,80,"Biryani,Indian,Chinese",Mylapore,66
+410832,Srinivas Towers,Chennai,Haka,500.0,4.3,20,"Chinese,Asian,Seafood",Srinivas Towers,70
+411090,Arumbakkam,Chennai,Joes Gourmet,300.0,4.3,50,Continental,Arumbakkam,56
+411349,Perambur,Chennai,Lets Eat,300.0,2.9,80,"Chinese,Snacks,Indian",Perambur,58
+411757,Annanagar,Chennai,Continent Vegetaria,200.0,2.9,80,"Snacks,Beverages",Annanagar,84
+411929,Villivakkam,Chennai,Syeds Biriyani And Fast Food,250.0,2.9,80,"Chinese,Indian,Biryani",Villivakkam,71
+412054,Alwarpet,Chennai,Southside Taco,500.0,4.4,100,"Mexican,Desserts,Beverages,Snacks",Raja Annamalai Puram,69
+412432,Vadapalani,Chennai,Mystery Of Brew,200.0,2.9,80,Indian,Vadapalani,78
+412801,Perambur,Chennai,Khichdi Experiment,250.0,3.9,50,"Home Food,Indian,Healthy Food,North Indian,Snacks,Maharashtrian,Sweets,South Indian,Combo,Desserts,Beverages,Kebabs",Perambur,52
+412802,Perambur,Chennai,The Biryani Experiment,500.0,3.6,50,"Biryani,Hyderabadi,Indian,Kebabs,North Indian,South Indian,Andhra,Afghani,Combo,Desserts,Beverages,Punjabi,Kerala,Sweets,Arabian,Lucknowi,Parsi,Tandoor",Perambur,56
+412803,Perambur,Chennai,Paratha Experiment,200.0,4.1,50,"North Indian,Punjabi,Home Food,Indian,Snacks,Combo,Desserts,Beverages,South Indian,Continental,Chettinad,Healthy Food,Chinese,Sweets",Perambur,54
+412804,Perambur,Chennai,Bowlsome,250.0,3.2,20,"Asian,North Indian,Continental,Healthy Food,Punjabi,Home Food,Oriental,Desserts,Beverages,Pan-Asian,Bengali,Mangalorean,Kashmiri,Lucknowi,Chinese,Sweets,Kebabs,Combo,Rajasthani,Awadhi",Perambur,54
+412805,Perambur,Chennai,That Pizza Place,500.0,2.9,80,"Pizzas,Italian,Fast Food,Desserts,Continental,Mediterranean,American,Mexican,Indian,Combo,Beverages,Bakery,French,Sweets,European,Lebanese,Snacks",Perambur,61
+413236,Nungambakkam,Chennai,Modern Malayali Kitchen,300.0,4.3,50,"South Indian,Chinese,Beverages",Nungambakkam,54
+413536,Nungambakkam,Chennai,Senoritas Mexican Kitchen By Little Italy,500.0,2.9,80,"Mexican,Salads,Combo,Snacks,Healthy Food",Wallace Garden 3Rd Street,48
+413584,Annanagar,Chennai,Kurtos Cremeria,400.0,2.9,80,European,Annanagar,72
+413825,Nungambakkam,Chennai,Nellai Fast Food,300.0,3.8,20,"Chinese,Indian,Combo",Nungambakkam,47
+413908,Royapettah,Chennai,Burger It Up,200.0,4.3,100,"American,Continental,Beverages,Desserts",Royapettah,53
+414648,Royapettah,Chennai,Warmoven Cake & Desserts,200.0,4.5,100,"Bakery,Desserts,Ice Cream",Royapettah,62
+414649,Royapettah,Chennai,Indiana Burgers,200.0,4.6,50,"American,Desserts",Royapettah,54
+415020,Royapettah,Chennai,Rotticious,250.0,2.9,80,"Fast Food,Italian,Chinese,Beverages",Royapettah,53
+415778,Perambur,Chennai,Pizza Lounge,250.0,2.9,80,"Fast Food,Pizzas",Perambur,63
+415913,T Nagar,Chennai,Kalil Rahman Biryani Kadai,280.0,2.9,80,"Biryani,Indian",West Cit Nagar,83
+416322,Annanagar,Chennai,Arezu,400.0,3.7,20,"Indian,Fast Food,Arabian",Annanagar,72
+416587,Kilpauk,Chennai,Mr Mrs Madharasi Cafe,300.0,2.9,80,"Fast Food,Snacks,Chaat,Juices,Beverages",Kilpauk,50
+417977,George Town,Chennai,C.F.C Hyderabad Dum Biryani & Fast Food,250.0,2.9,80,"Biryani,Fast Food",George Town,53
+418879,Vadapalani,Chennai,Lassi No 1,200.0,2.9,80,"Beverages,Desserts",Vadapalani,72
+419354,Arumbakkam,Chennai,Single Tea Machi,120.0,2.9,80,"Fast Food,Juices,Chaat,Desserts,Beverages",Arumbakkam,84
+419784,Perambur,Chennai,Chennai Fast Food,160.0,2.9,80,Indian,Perambur,58
+420074,Kilpauk,Chennai,Atoms By Blind Ch3Mistry,400.0,2.9,80,"Beverages,Continental,Italian",Kilpauk,46
+420599,Nungambakkam,Chennai,Lord Of The Drinks,200.0,2.9,80,"Indian,Italian",Nungambakkam,56
+420759,Annanagar,Chennai,Pizza Mechanics,200.0,2.9,80,Pizzas,Annanagar,87
+421128,Perambur,Chennai,The Sandwich Project,200.0,2.9,80,"Fast Food,Beverages",Perambur,58
+421245,Vadapalani,Chennai,Chickwalk,300.0,4.4,20,"Fast Food,Continental,Beverages,Ice Cream",Vadapalani,85
+421784,Royapettah,Chennai,Bateel,1000.0,2.9,80,"Desserts,Fast Food",Royapettah,52
+422722,Arumbakkam,Chennai,Alibaba Shawarma And 40 Dishes,250.0,3.7,20,Lebanese,Arumbakkam,68
+423372,Mylapore,Chennai,The Magic Food Center,100.0,2.9,80,"Fast Food,Chaat",Mylapore,61
+423507,Old Washermanpet,Chennai,Pandi Briyani Hotel,250.0,2.9,80,"Biryani,South Indian",Royapuram,61
+424420,Annanagar,Chennai,Narsuvai Biryani,275.0,2.9,80,Biryani,Annanagar,76
+424944,Perambur,Chennai,Thoothukudi Poricha Parotta,150.0,4.2,20,Indian,Perambur,68
+425288,Egmore,Chennai,Quarter Biryani,300.0,3.8,20,"Biryani,Combo,Chinese",Egmore,47
+425588,T Nagar,Chennai,1By2,250.0,4.9,20,"Beverages,Snacks",T Nagar,79
+425974,Ra Puram,Chennai,Shri Ganesh Bhavan,250.0,4.6,20,South Indian,Mylapore,68
+426106,Perambur,Chennai,Mr.Burger,280.0,2.9,80,"Pizzas,Pastas,Indian",Perambur,59
+426507,Annanagar,Chennai,Mahtab,900.0,2.9,80,"North Indian,Desserts",Annanagar,72
+427119,Madhavaram - Manali,Chennai,Madurai Pandiyan Hotel,200.0,2.9,80,Indian,Perumbur,65
+427506,Perambur,Chennai,Chatar Patar,300.0,2.9,80,"Fast Food,Street Food",Perambur,71
+427945,Egmore,Chennai,Ra3,300.0,2.9,80,"Indian,Chinese,Combo",Egmore,49
+428047,Egmore,Chennai,Roll'D Eats,300.0,2.9,80,Fast Food,Egmore,46
+428149,George Town,Chennai,Anna Viruksham,180.0,2.9,80,"South Indian,Biryani,Combo,Thalis,Tandoor,Ice Cream,Juices,Beverages",George Town,47
+428729,Mylapore,Chennai,Giri Bhavan,200.0,2.9,80,South Indian,Mylapore,64
+428760,T Nagar,Chennai,Wings Factory,398.0,3.9,20,"Chinese,Fast Food,Tandoor,Thai,African,Barbecue",T Nagar,71
+429251,Royapettah,Chennai,Madras Military Hotel,300.0,2.9,80,"Indian,Biryani,Combo",Royapettah,56
+429332,Egmore,Chennai,Simbox,200.0,4.4,100,"Indian,Chinese",Egmore,46
+430194,Royapettah,Chennai,Smoor,300.0,4.7,50,"Bakery,Beverages",Royapettah,51
+430796,Egmore,Chennai,Madurai Simmakkal Konar Kadai,400.0,4.2,20,"South Indian,Indian",Egmore,36
+432408,Mylapore,Chennai,Abbu-Bhais - Kebabs Shawarmas & Grills,400.0,3.8,20,Arabian,Mylapore,76
+432859,Perambur,Chennai,Donut Hut,200.0,2.9,80,"Indian,Snacks,Fast Food,Combo,Chinese,Seafood,Coastal,Desserts",Perambur,53
+432993,Arumbakkam,Chennai,Jai Food Zone,110.0,2.9,80,"Chaat,Ice Cream,Snacks,Beverages",Arumbakkam,70
+434478,Annanagar,Chennai,Chaya & Kadi,100.0,2.9,80,"Indian,Seafood",Annanagar,68
+435614,Madhavaram - Manali,Chennai,Black Bird,300.0,2.9,80,"Fast Food,Pizzas,Beverages",Madhavaram - Manali,69
+436273,Annanagar,Chennai,Cholan Mess,800.0,4.1,20,"Indian,Chinese,Biryani,Beverages",Annanagar,70
+436776,Royapettah,Chennai,Nifra Hot And Sweets,150.0,2.9,80,"Snacks,Beverages",Royapettah,52
+436948,T Nagar,Chennai,Thanjai Veeraswamy,250.0,3.9,50,South Indian,T Nagar,69
+437531,Annanagar,Chennai,Inji And Soy Multi Cuisine Restaurant,300.0,2.9,80,"Chinese,Indian,Lebanese,Snacks,Beverages,Desserts",Annanagar,70
+437555,Annanagar,Chennai,Illis Group Of Restaurants,300.0,2.9,80,"Indian,Chinese,Arabian,Beverages",Annanagar,74
+437623,Royapettah,Chennai,Gobrgr@Tryst Gourmet,300.0,2.9,80,Fast Food,Royapettah,56
+437682,Perambur,Chennai,The Phoenix Kitchenz,399.0,2.9,80,Pizzas,Perambur,71
+438073,George Town,Chennai,Yummy Shawarma,200.0,2.9,80,Arabian,George Town,57
+438520,Purasawalkam,Chennai,Sulthan Briyani,300.0,2.9,80,"Biryani,North Indian,Chinese",Purasawalkam,55
+438583,Annanagar,Chennai,The Burp Factory,300.0,2.9,80,"Indian,Arabian",Annanagar,76
+439036,Alwarpet,Chennai,Gold Fresh Juice Shop,200.0,4.7,100,Juices,Alwarpet,51
+439293,Kodambakkam,Chennai,Parvathi Amma Mess,300.0,2.9,80,South Indian,Kodambakkam,77
+439446,Annanagar,Chennai,Little Soi,1000.0,4.3,20,"Pan-Asian,Thai,Chinese",Annanagar,73
+439796,Perambur,Chennai,Burmese Bowl,200.0,2.9,80,"Chinese,Beverages,Ice Cream",Perambur,74
+439841,Nungambakkam,Chennai,Impasta,1200.0,2.9,80,"Italian,Desserts",Nungambakkam,49
+440032,Arumbakkam,Chennai,Kk Biriyani,300.0,2.9,80,"Chinese,Indian,Ice Cream,Beverages",Arumbakkam,78
+440360,Perambur,Chennai,Kambi Kari,300.0,2.9,80,"South Indian,Kebabs,Combo",Perambur,66
+440447,Purasawalkam,Chennai,Kalyana Virundhu Biryani,620.0,2.9,80,"Biryani,Indian",Pattalm,44
+440758,Knk- Nungambakam (Cds)- Chennai,Chennai,Cafe Coffee Day,300.0,2.9,80,"Beverages,Snacks,Desserts",Knk- Nungambakam (Cds)- Chennai,51
+440915,Royapettah,Chennai,Hotel Sagar,300.0,2.9,80,"Biryani,Indian,Chinese,Beverages",Royapettah,44
+441144,Annanagar,Chennai,Kongu Nattu Kari Virunthu,600.0,2.9,80,"Chettinad,South Indian",Annanagar,72
+441148,Perambur,Chennai,Mystiq Foods,1200.0,2.9,80,"Indian,North Indian,Biryani",Perambur,56
+441408,Perambur,Chennai,Hot Bowl Cafe,250.0,2.9,80,Chinese,Perambur,69
+441674,Vadapalani,Chennai,Tn10 Shawarma And Shake Factory,350.0,2.9,80,"Beverages,Fast Food",Vadapalani,85
+441763,Royapettah,Chennai,New Archana Fast Food,300.0,2.9,80,"Fast Food,Chinese,South Indian,Beverages",Royapettah,56
+442124,Egmore,Chennai,Mirchi Express,250.0,4.1,20,"Arabian,Continental,Italian,Grill,Thai,Biryani,Indian,Mughlai,Chinese",Egmore,44
+442222,Annanagar,Chennai,Virudhunagar Poricha Parota,500.0,2.9,80,"South Indian,Biryani",Annanagar,70
+442246,T Nagar,Chennai,Crunchy Munchy Chats,250.0,2.9,80,"Street Food,Italian",T Nagar,66
+442257,Annanagar,Chennai,Zi Gang,500.0,2.9,80,"Fast Food,Continental,Desserts",Annanagar,68
+442449,Arumbakkam,Chennai,Pocket Burger,400.0,2.9,80,"Pizzas,Italian,Fast Food,Beverages",Arumbakkam,57
+442492,Shenoy Nagar,Chennai,Pizza Crush,499.0,2.9,80,"Italian,Pizzas,Snacks,Beverages",Shenoy Nagar,63
+442774,Annanagar,Chennai,Basmati Foods,300.0,2.9,80,"Biryani,Snacks,Beverages",Annanagar,72
+442909,Kodambakkam,Chennai,Tikka Man,200.0,2.9,80,North Indian,Kodambakkam,67
+443862,Arumbakkam,Chennai,Sri Sai Foods,10.0,2.9,80,Fast Food,Arumbakkam,67
+443922,Mylapore,Chennai,City Square Cafeteria,280.0,2.9,80,"Fast Food,Desserts,Beverages",Mylapore,58
+444474,T Nagar,Chennai,Momos,300.0,2.9,80,Chinese,T Nagar,69
+444508,Villivakkam,Chennai,Mithran Fast Food,300.0,2.9,80,"Chinese,Biryani",Villivakkam,74
+445269,Annanagar,Chennai,Foodinbox,350.0,2.9,80,"North Indian,Chinese,Biryani,Tandoor",Annanagar,76
+445936,Mylapore,Chennai,Kanji Kadai,400.0,4.3,20,"South Indian,Chinese",Mylapore,62
+446023,Perambur,Chennai,S.R.Kathar Biryani,250.0,2.9,80,Indian,Perambur,62
+446935,George Town,Chennai,National Lodge,300.0,2.9,80,South Indian,George Town,49
+447959,Egmore,Chennai,Madras Hotel Ashoka - Abhinandan,500.0,4.3,20,"South Indian,Indian",Egmore,36
+448068,Purasawalkam,Chennai,Mary'S Kitchen,200.0,2.9,80,Chinese,Purasawalkam,58
+448583,Aminjikarai,Chennai,Ammi'S Biryani,300.0,2.9,80,"Biryani,North Indian,Kebabs,Mughlai,Grill,Desserts,Sweets,Beverages",Manickam Road,59
+448584,Aminjikarai,Chennai,Eatfit,270.0,4.3,100,"Healthy Food,Pizzas,North Indian,Thalis,Biryani",Manickam Road,58
+448590,Aminjikarai,Chennai,Great Indian Khichdi,200.0,4.2,20,"Indian,Home Food,Healthy Food,Snacks",Manickam Road,60
+448613,Perambur,Chennai,The Shawarma Makers,220.0,2.9,80,"Arabian,Fast Food",Perambur,72
+449198,T Nagar,Chennai,The Belgian Street,300.0,2.9,80,"Bakery,Desserts,Chinese,Beverages",T Nagar,74
+449395,Perambur,Chennai,Arcot Biriyani,150.0,2.9,80,Indian,Perambur,71
+449646,Egmore,Chennai,Taj Mugalai Since 1981,250.0,2.9,80,"Chinese,Arabian",Egmore,36
+449775,Villivakkam,Chennai,Pizza Stone,350.0,2.9,80,"Pizzas,Combo",Villivakkam,70
+450219,Purasawalkam,Chennai,New Hotel Madina Biriyani,300.0,2.9,80,"Indian,Chinese,Combo",Purasawalkam,49
+450694,Perambur,Chennai,Ambur Masha Allah Briyani,400.0,2.9,80,Biryani,Perambur,56
+450971,Perambur,Chennai,Red E Drop Zone,1000.0,2.9,80,"Chinese,Seafood",Perambur,54
+451353,Villivakkam,Chennai,Pizza Cottage,300.0,2.9,80,"Pizzas,Fast Food,Beverages",Villivakkam,68
+451641,Vadapalani,Chennai,Arabian Paradise,250.0,2.9,80,"Arabian,Tandoor,Grill",Vadapalani,77
+451785,T Nagar,Chennai,Murugappa Mess,1.0,2.9,80,"South Indian,Indian,Desserts",T Nagar,73
+453234,Royapettah,Chennai,Meat Com,400.0,2.9,80,North Indian,Royapettah,45
+453678,Nungambakkam,Chennai,Wok Of Life,600.0,2.9,80,"Chinese,Combo,Beverages",Nungambakkam,50
+453679,Mylapore,Chennai,Creamy Cake Pops,800.0,2.9,80,Bakery,Mylapore,67
+454193,Vadapalani,Chennai,Hotel Nava Rusi,250.0,2.9,80,"Indian,Chinese",Vadapalani,81
+454371,Purasawalkam,Chennai,Le Shawarmez,200.0,2.9,80,"Snacks,Beverages",Purasawalkam,45
+454615,Perambur,Chennai,Grill It,150.0,2.9,80,"Chinese,Grill,Tandoor",Perambur,57
+454751,Royapettah,Chennai,Sagas Foods,100.0,2.9,80,"Sweets,Beverages,Chaat",Royapettah,54
+454875,Perambur,Chennai,The Royal Restaurant,300.0,2.9,80,"Chinese,Indian",Perambur,69
+455315,Royapettah,Chennai,T Shop,150.0,2.9,80,"Beverages,Snacks,Indian,Fast Food",Royapettah,58
+455502,Purasawalkam,Chennai,Seiko Grill,200.0,2.9,80,"Chinese,Beverages",Purasawalkam,50
+455672,Alwarpet,Chennai,Juice Box Alwarpet,150.0,2.9,80,"Beverages,Juices,Fast Food,Chinese,Snacks",Alwarpet,64
+456943,Egmore,Chennai,K2 Parotta & Biriyani,400.0,2.9,80,"North Indian,Biryani,Chinese",Egmore,49
+457805,Purasawalkam,Chennai,Leenas Kitchen,250.0,2.9,80,Bakery,Purasawalkam,50
+457931,Kodambakkam,Chennai,Mad Over Madras,500.0,2.9,80,"Snacks,Pastas,Desserts",Kodambakkam,88
+457973,Perambur,Chennai,Jango'Z,400.0,2.9,80,"Pizzas,Desserts",Perambur,67
+458465,T Nagar,Chennai,Five Star Chicken / Haleem Departmental Stores,200.0,2.9,80,"American,Snacks",T Nagar,73
+458836,Vadapalani,Chennai,Vanga Jii,400.0,2.9,80,"North Indian,Lebanese,South Indian",Vadapalani,75
+459317,Kilpauk,Chennai,Lassi N Shakes,160.0,2.9,80,"American,Italian,Pizzas,Snacks,Healthy Food,Juices,Beverages",Kilpauk,44
+459585,Royapettah,Chennai,Noto - Healthy Ice Cream,250.0,2.9,80,"Healthy Food,Ice Cream",Royapettah,45
+460912,George Town,Chennai,Salam Biryani,300.0,2.9,80,"Chinese,North Indian",George Town,45
+462318,Purasawalkam,Chennai,Gowri Fast Food,200.0,2.9,80,"Arabian,North Indian",Purasawalkam,44
+463445,Perambur,Chennai,New Star Hotel,300.0,2.9,80,"Biryani,Chinese,South Indian",Perambur,50
+463545,George Town,Chennai,Food Corner Family Restaurent,1.0,2.9,80,"South Indian,Chinese,Beverages",George Town,60
+464082,Perambur,Chennai,Love To Eat,350.0,2.9,80,"Biryani,Chinese,Snacks",Perambur,51
+464563,Purasawalkam,Chennai,King Queen Pizza,249.0,2.9,80,Snacks,Purasawalkam,60
+464760,Purasawalkam,Chennai,A1 Food World,250.0,2.9,80,"Chinese,American,Pizzas,Snacks",Purasawalkam,46
+465218,Annanagar,Chennai,Nasi And Mee,1200.0,5.0,20,"Pan-Asian,Singaporean,Malaysian,Japanese,Asian,Chinese,Indonesian",Annanagar,70
+465523,Perambur,Chennai,Chennai Biryani Centre,400.0,2.9,80,"Biryani,Chinese",Perambur,58
+6353,Mylapore,Chennai,Freez Zone,250.0,4.7,50,Desserts,Radhakrishnan Salai Kaaraikudi Complex,50
+7775,Chennai,Chennai,Gangotree,300.0,4.5,1000,"Street Food,Desserts,Fast Food",Cathedral Road,50
+8902,Thousand Lights,Chennai,Krispy Kreme,170.0,4.5,500,"Desserts,Beverages",Express Avenue Mall,47
+8934,Royapettah,Chennai,Brunch,400.0,4.1,50,Chaat,Mylapore,56
+8939,Raja Annamalai Puram,Chennai,Udipi Sri Ganesh Bhavan,200.0,4.5,100,South Indian,Ra Puram,67
+8944,Mylapore,Chennai,Mami Tiffen,200.0,4.3,1000,South Indian,Mylapore,57
+9259,Chennai,Chennai,Nungambakkam Chaat Corner,150.0,4.1,100,"Chaat,Street Food",Nungambakkam,47
+9341,Kodambakkam,Chennai,Hotel Akshaya,250.0,4.3,1000,South Indian,Kodambakkam,74
+9510,T. Nagar,Chennai,Amdavadi Gujarati Restaurant,400.0,3.9,100,Gujarati,T Nagar,67
+9818,Vadapalani,Chennai,Mithai Mandir,300.0,4.6,1000,Sweets,Vadapalani,70
+11041,Gopalapuram,Chennai,Pasta Square,300.0,4.4,500,Italian,Gopalapuram,57
+11727,Kilpauk,Chennai,Bombaysthan,250.0,4.6,100,"Pizzas,Desserts",Harley'S Road,39
+11729,Teynampet,Chennai,Brijwasi Sweets,300.0,3.9,1000,North Indian,Eldams Road,63
+11942,Chetpet,Chennai,Creamy Inn,250.0,4.2,50,Ice Cream,Harrington Road,50
+12615,Triplicane,Chennai,Ratna Cafe (Estd.1948),300.0,4.3,1000,"South Indian,Sweets",Triplicane,36
+13011,Nungambakkam,Chennai,Vb Signature - Progressive Veg Restaurant,250.0,3.7,100,"North Indian,South Indian",Tirumurthy Nagar,58
+14039,Cit Nagar,Chennai,The Idli Factory,300.0,4.0,100,South Indian,T. Nagar,80
+14058,Egmore,Chennai,Namma Veedu Vasanta Bhavan,150.0,4.0,1000,South Indian,Egmore,34
+14096,Egmore,Chennai,Sangeetha Veg Restaurant,150.0,4.4,1000,"North Indian,Chinese,South Indian",Gandhi Irwin Rd,31
+14834,Egmore,Chennai,Hotel Saravana Bhavan,300.0,4.0,500,"North Indian,South Indian",Egmore,39
+14912,Egmore,Chennai,Mathsya - (Egmore),500.0,4.3,1000,"Chaat,North Indian,Chinese,Continental,Italian",Egmore,36
+14936,Egmore,Chennai,Donut House,250.0,3.5,100,"Beverages,Desserts",Egmore,39
+15217,Royapettah,Chennai,Id Sathyam,300.0,2.9,80,"South Indian,Andhra,Beverages,Desserts",Sathyam Cinemas Complex,54
+15586,Gopalapuram,Chennai,Rajeswari Restaurant,400.0,4.3,20,"North Indian,Chinese,South Indian,Biryani,Tandoor",Ttk Road,50
+16469,Mylapore,Chennai,Vrindavan,500.0,4.5,100,"Chinese,South Indian,Continental,Tandoor",Mylapore,53
+16543,Purasaiwakkam,Chennai,A2B Veg,300.0,4.3,1000,"South Indian,North Indian,Sweets,Chinese",Purasawalkam,35
+17069,Choolai,Chennai,Hot Chips,250.0,4.0,100,"North Indian,South Indian",Hunter Road,35
+17368,Anna Nagar,Chennai,Nandhiniee Sweets,150.0,4.4,100,"Chaat,Sweets",Anna Nagar West,58
+17446,Kilpauk,Chennai,Nithya Amirtham Sweets,200.0,4.6,500,"Sweets,Snacks,Desserts,Beverages",Kilpauk,47
+17447,Aminjikarai,Chennai,Nithya Amirtham,200.0,4.5,1000,"South Indian,Sweets,North Indian,Chinese,Snacks",Arumbakkam,57
+18341,Purasaiwakkam,Chennai,Doveton Cafe,250.0,4.2,1000,"North Indian,Chinese,South Indian,Indian,Tandoor",Purasavakkam High Road,35
+19004,Nungambakkam,Chennai,Cream Centre,1500.0,4.4,100,"North Indian,Italian,Mexican",Nungambakkam,51
+19496,Anna Nagar,Chennai,Italiano,250.0,4.2,1000,"Pizzas,Continental,Beverages,Italian",Anna Nagar East,63
+21043,Mylapore,Chennai,Thaligai,400.0,4.5,1000,South Indian,Luz Church Road,63
+22299,Mylapore,Chennai,Munch,200.0,4.3,500,"Chaat,North Indian",Veera Perumal Street,56
+22404,Mylapore,Chennai,Baker'S Cafe,300.0,4.5,100,"Bakery,Fast Food,Italian",Mylapore,62
+22405,Teynampet,Chennai,Okadey'S,200.0,4.5,500,"North Indian,Chinese,Indian,Ice Cream,South Indian,Juices",R A Puram,57
+24273,Periyamet,Chennai,Hotel Shiva Sagar,350.0,4.3,100,"North Indian,Jain,Chaat,Indian,South Indian,Tandoor",Vepery,33
+24684,Egmore,Chennai,Flower Drum,1100.0,4.4,100,"Chinese,Thai",Pantheon Road,45
+24854,Nungambakkam,Chennai,Dhanniya Soru,200.0,4.2,100,South Indian,Lalinga Colony,73
+25303,Ayanavaram,Chennai,Hotel Kanthaa'S,150.0,3.9,100,"South Indian,Beverages,North Indian,Snacks,Fast Food,Chinese",Medavakkam Tank Road,49
+25515,Teynampet,Chennai,Amaravathi Andhra Home Foods,300.0,4.6,50,"Andhra,Indian,North Indian",Ttk Road,50
+26205,Egmore,Chennai,Shmoozie'S Hand-Crafted Ice Creams,200.0,2.9,80,"Ice Cream,Desserts",Varadarajulu Street,46
+26680,Egmore,Chennai,Milkyway,100.0,4.3,50,"Ice Cream,Desserts,Chaat",Ethiraj Salai,31
+27787,Saligramam,Chennai,Sri Paarvathi Bavan Ssweets And Veg Restaurant,150.0,4.0,1000,"Sweets,South Indian,North Indian,Chinese,Snacks",Saligramam,79
+28121,T. Nagar,Chennai,Pakwan Chennai,1200.0,4.3,100,"North Indian,Chinese,Italian",Kuppuswamy Street,70
+28377,Kilpauk,Chennai,Mumbai Chatwala,200.0,4.4,100,"Chaat,Juices,Snacks",Balfour Road,44
+30338,Alwarpet,Chennai,Ajnabi Mithaai Ghar,200.0,4.6,500,"Chaat,Sweets",Ttk Road,61
+34331,Egmore,Chennai,Parwani'S Bombay Halwa House,550.0,4.3,1000,North Indian,Kilpauk,45
+34618,T. Nagar,Chennai,Famous Jigarthanda,100.0,4.3,20,Desserts,Motilal Street,71
+35213,Shenoy Nagar,Chennai,The Delhi Dhaba-Veg,350.0,4.3,500,"Chinese,Indian,North Indian,Tandoor",Halls Road,58
+35323,Egmore,Chennai,Udipi Hotel Sudha,300.0,4.2,1000,South Indian,Kilpauk,40
+37629,Chetpet,Chennai,Shree Mithai,250.0,4.5,1000,"Desserts,Street Food,Chaat",Chetpet,37
+38155,Anna Nagar,Chennai,Roll Over,300.0,4.1,100,"Desserts,Beverages,Pan-Asian,Snacks",Anna Nagar,62
+38622,Teynampet,Chennai,Parvathi Bavan Sweets,250.0,4.4,100,"Sweets,Snacks,Desserts,North Indian,South Indian",Alwarpet,51
+38824,West Mambalam,Chennai,Osb Hot & Chat,200.0,4.3,100,"Street Food,South Indian,North Indian",Lake View Road,77
+39109,Kilpauk,Chennai,Little North,500.0,4.3,100,"Chinese,North Indian",Kilpauk,53
+41108,Mylapore,Chennai,Ruchi Pure Veg,250.0,4.0,100,South Indian,Mylapore,66
+41967,Shenoy Nagar,Chennai,Antari By Soul Garden Bistro,300.0,2.9,80,"Bakery,Desserts,Ice Cream,Beverages",New Avadi Road,57
+42466,Anna Nagar,Chennai,Lassi Shop,100.0,4.3,100,"Beverages,Ice Cream,Desserts,Fast Food,Juices,North Indian,American,Snacks,Bakery",Opp K3 Police Station,53
+43036,Kilpauk,Chennai,The Noodle Theory,400.0,4.0,100,"Asian,Fast Food",Kilpauk,55
+43996,Jamalia,Chennai,Hunger Square,250.0,4.5,20,"Italian,Fast Food",Perambur,49
+46222,Kilpauk,Chennai,Prive Restaurant,1200.0,4.4,20,"Continental,North Indian",New 71 Ormes Road,48
+46904,Chennai,Chennai,Maggevala Curly Cravings,200.0,4.1,100,"Fast Food,Beverages",Ormes Road,46
+46943,T. Nagar,Chennai,Kovai Pazhamudir Nilayam,150.0,4.5,100,"Juices,Beverages",North Boag Road,62
+47737,Kilpauk,Chennai,Kakada Ramprasad,400.0,4.5,1000,"North Indian,Tandoor,Indian,Mexican,Street Food",Ormes Road,38
+50236,Periyamet,Chennai,Bombay Kulfi,150.0,4.6,100,"Ice Cream,Desserts",Vepery,28
+50384,Nungambakkam,Chennai,Id,300.0,4.4,500,South Indian,Pushpa Nagar Main Road - Nungambakkam,59
+50508,Perambur,Chennai,S2C Chaat,100.0,4.1,100,"Street Food,Sweets",Perambur,60
+51526,Egmore,Chennai,Hotel Aradhana,350.0,4.2,20,"South Indian,Chinese,North Indian",Egmore,34
+51962,Royapuram,Chennai,Hotel Sukha Nivas,250.0,4.3,100,"South Indian,North Indian,Chinese,Tandoor",Royapuram,56
+52026,Chennai,Chennai,Chennai Woodlands - Since 1963,300.0,4.2,500,"South Indian,North Indian,Desserts,Beverages,Thalis",George Town,45
+53451,Kilpauk,Chennai,The Thick Shake Factory,350.0,3.9,100,"Beverages,Desserts",Barnaby Road,38
+53559,Anna Nagar,Chennai,Akshayam Sweets N Bakers,300.0,4.4,500,"South Indian,North Indian,Chinese",Annanagar,65
+54470,Alwarpet,Chennai,Grind Coffee House,100.0,4.4,100,Beverages,Alwarpet,57
+54473,George Town,Chennai,Hotel Shiva Shagar,450.0,4.1,100,"Beverages,North Indian,South Indian",Park Town,36
+55045,Poongavanapuram,Chennai,Murugan Idli Shop,200.0,4.3,100,South Indian,George Town,30
+56360,George Town,Chennai,Novelty Tea House,450.0,4.1,100,"North Indian,South Indian,Chinese",Mint Street,39
+57386,T. Nagar,Chennai,Goli Vada Pav No 1,100.0,4.1,100,"Maharashtrian,North Indian,Fast Food,Street Food",Habibullah Road,60
+57422,Kilpauk,Chennai,Seena Bhai 1977 Dosa Centre,150.0,3.3,50,South Indian,Kellys Corner,38
+57507,Nungambakkam,Chennai,Shubh,300.0,4.4,100,"North Indian,Sweets,Snacks,Street Food",Opp Mapalai,55
+57702,Purasaiwakkam,Chennai,Svadista,200.0,2.9,80,"Pizzas,Street Food",Kilpauk,52
+58378,Kilpauk,Chennai,Sandwich Hub By Anika Foods,200.0,4.2,50,Pastas,Kilpauk,52
+58631,Mandaveli,Chennai,Subham Ganesan,100.0,4.5,100,"Sweets,Snacks",Mylapore,60
+59557,Anna Nagar,Chennai,The Grand Sweets And Snacks - Amirtham Restaurant,400.0,4.7,100,"Sweets,Snacks",Anna Nagar West,62
+60573,Ayanavaram,Chennai,Eat Me,200.0,2.9,80,"Snacks,Juices",Anna Nagar,54
+60585,Perambur,Chennai,Tattu Idly And Variety Dosa Shop,150.0,4.0,100,South Indian,Perambur,49
+60743,Triplicane,Chennai,Rajasthani Roti Ghar,200.0,4.3,100,North Indian,Triplicatechepauk,31
+60888,Alwarpet,Chennai,Eating Circles,200.0,4.5,1000,South Indian,Alwarpet,64
+60999,Alwarpet,Chennai,Jokers Kitchen,300.0,2.9,80,"North Indian,Italian,Continental",Alwarpet,66
+61686,Cit Nagar,Chennai,Uppilis On D Go,200.0,3.9,50,South Indian,Mylapore,80
+64317,Thousand Lights,Chennai,Juice'R Rus,150.0,4.1,50,"Beverages,Juices,Desserts",Nungambakkam,47
+64704,Kilpauk,Chennai,Fusilli Reasons,200.0,4.5,500,"Pastas,Fast Food,Italian",Kilpauk,47
+66245,Perambur,Chennai,Milkie Mustache,400.0,4.9,20,"Beverages,Desserts",Jawahar Nagar,64
+66320,Anna Nagar,Chennai,Annanagar Vaishanava'S - Thattu Idli Kadai,200.0,4.3,1000,"Indian,South Indian,Chinese,Chaat",Anna Nagar East,63
+66631,Anna Nagar,Chennai,Murali Krishna Andhra Hotel,250.0,4.1,100,"North Indian,South Indian,Chinese",Anna Nagar,64
+66681,Mylapore,Chennai,Mylai Karpagambal Mess,250.0,4.5,100,South Indian,Mylapore,55
+67557,Kodungaiyur,Chennai,Soman Unavagam,300.0,4.0,500,"South Indian,North Indian,Chinese",Perambur,61
+67981,Valasaravakkam,Chennai,Lassiwala,100.0,2.9,80,Beverages,Alwarthirunagar,75
+68838,Raja Annamalai Puram,Chennai,Lassi Cream-Mrc Nagar,100.0,4.2,50,"Desserts,Beverages,Ice Cream,Bakery",Mrc Nagar,69
+69507,George Town,Chennai,Seena Bhai 1977 Dosa Center,100.0,4.0,50,South Indian,Sowcarpet,33
+72652,Annamalai Colony,Chennai,Masaledaar Dhaba,600.0,4.3,500,"North Indian,Punjabi,Indian,Thalis,Chinese",Saligramam,85
+75609,George Town,Chennai,Rasoee,150.0,4.0,100,"North Indian,Street Food,Chinese,Fast Food",George Town,38
+76170,Anna Nagar,Chennai,Hotel Ganapathy Bhavan,300.0,4.4,100,"South Indian,North Indian,Chinese",Annanagar,62
+79308,Nungambakkam,Chennai,Spice Klub,1100.0,4.3,20,"North Indian,Indian,Continental",H M Centre,58
+82789,Koyambedu,Chennai,Dosa Corner,150.0,4.1,50,"South Indian,North Indian",Thiruveni Complex,85
+89835,Egmore,Chennai,Jus Bites,250.0,2.9,80,Desserts,G1 Wellington Estate,40
+89982,Kilpauk,Chennai,Rajasthan Chat House,250.0,2.9,80,Fast Food,Ayanavaram,54
+90696,Anna Nagar,Chennai,Firangi Falooda,200.0,2.9,80,"Cafe,Beverages,Desserts,Fast Food,Juices",Anna Nagar,65
+91682,Choolai,Chennai,Kolkata Express,200.0,2.9,80,"Fast Food,Chaat",Choolai,46
+93539,Anna Nagar,Chennai,Millet Maagic Meal,300.0,4.5,1000,"Healthy Food,South Indian",Anna Nagar,63
+97170,Teynampet,Chennai,Snofield,250.0,4.5,50,Ice Cream,Royapettah,54
+99161,Mylapore,Chennai,Vb Sweets And Snacks,200.0,2.9,80,"Sweets,Snacks",Mylapore,64
+106424,Ayanavaram,Chennai,Siva'S Foodie Paradise,99.0,2.9,80,Fast Food,Ayanavaram,55
+111563,Perambur,Chennai,Makers Of Milkshakes,300.0,3.8,50,"Beverages,Desserts",Perambur,59
+112136,Washermanpet,Chennai,Hotel Parijatha - G.A Road,300.0,4.4,500,"North Indian,South Indian,Chinese,Biryani",Washermenpet,55
+112991,Triplicane,Chennai,Sarmani Veg Restaurant,300.0,4.4,100,"South Indian,North Indian,Chinese,Tandoor",Royapettah,47
+114033,Egmore,Chennai,The Patiala House,600.0,4.3,1000,North Indian,Chetpet,44
+117182,Perambur,Chennai,Soupman Shop,150.0,4.1,100,"North Indian,Chinese",Perambur,59
+117881,Nungambakkam,Chennai,Karachi Bakery And Cafe,600.0,4.4,1000,"Snacks,North Indian,Desserts,Bakery,American,Italian,Sweets",Nugambakkam,48
+122651,T. Nagar,Chennai,Mr. Papdi,400.0,4.2,50,"North Indian,Chaat,Street Food",T Nagar,69
+122888,Kilpauk,Chennai,Feastinn,250.0,4.4,20,"North Indian,Chaat,Pizzas,Beverages",Kilpauk,51
+122905,T. Nagar,Chennai,Bhakshana By Paati Veedu,600.0,4.5,100,"South Indian,Indian",Paati Veedu T.Nagar,69
+123798,Kodambakkam,Chennai,Hot Chappathies,180.0,4.1,1000,"North Indian,Chinese,Biryani,Chaat,Indian,Tandoor",Kodambakam,77
+126793,Thousand Lights,Chennai,Apsara Ice Creams,150.0,4.4,50,"Ice Cream,Desserts",Knk Road,38
+128438,Mylapore,Chennai,Green Crush,85.0,4.6,50,"Beverages,Juices",Cit Colony,59
+128453,Anna Nagar,Chennai,The Cheese Cafe,250.0,4.6,20,"North Indian,Italian,Mexican",Ranganathan Garden,64
+128958,Old Washermanpet,Chennai,Shafi Sweets,400.0,4.3,50,"Snacks,Sweets,Desserts",Washermenpet,51
+129915,Perambur,Chennai,Muthamizh A/C Restaurant,250.0,4.3,500,South Indian,Mogappair,51
+130508,Chennai,Chennai,Sree Vishnu Bhavan,200.0,4.0,500,South Indian,Kolathur,63
+132452,Anna Nagar,Chennai,Tosamania,250.0,2.9,80,South Indian,Ranganathan Garden,75
+132911,Purasaiwakkam,Chennai,Akshaya Veg Restaurant,150.0,3.9,100,Indian,Purasawalkam,45
+138998,Kodambakkam,Chennai,Mm Cafe Point,100.0,2.9,80,"Beverages,Snacks",Arcot Road,80
+141879,Purasaiwakkam,Chennai,Shree Maa Inti Devi Chat,200.0,3.6,20,"Snacks,Street Food,Chaat",Mookathal Street,40
+143066,Thousand Lights,Chennai,Jugalbhandhi,1200.0,2.9,80,"North Indian,Indian,Italian,Pastas,Continental",Nungambakkam,58
+145378,Kodambakkam,Chennai,The Sandwich Shop,200.0,4.1,20,"Indian,Fast Food",Puliyur Main Road,75
+146402,T. Nagar,Chennai,Frozen Bottle,250.0,4.2,100,"Beverages,Ice Cream,Desserts",Kodambakkam High Road,69
+147670,Perambur,Chennai,Sri Balaji Chapatti Stall,300.0,4.3,100,Home Food,S.R.P.Colony,58
+151182,Kilpauk,Chennai,Chatpata Chat House,150.0,4.1,50,"South Indian,Bakery,Desserts",Kilpauk,44
+155212,West Mambalam,Chennai,Lassi Shop,99.0,4.2,500,"Desserts,Ice Cream",Ashok Nagar T. Nagar,67
+157553,Mylapore,Chennai,Lassi Cream-Citi Centre,150.0,4.0,20,"Desserts,Beverages,Ice Cream,Bakery",Mylapore,63
+173238,Ponniammanmedu,Chennai,Kala Home Made Foods,250.0,4.0,20,"Fast Food,Snacks",Thanikachalam Nagar,75
+173432,West Mambalam,Chennai,Udipi Hotel Maha Ganapathy,250.0,4.4,100,"North Indian,South Indian",West Mambalam,75
+175788,Ponniammanmedu,Chennai,Muhil Soup,200.0,4.3,100,"Snacks,Indian,Chinese",2Nd Main Road Kumaran Nagar Peravalur,64
+190571,Anna Nagar,Chennai,Shri Gowri Krishnaa,200.0,4.5,1000,"South Indian,North Indian,Chinese",Annanagar,57
+193930,Annanagar East,Chennai,The Cane Station,150.0,4.6,100,Juices,Annanagar,53
+204348,Kilpauk,Chennai,Bombay Halwa House,500.0,4.4,500,"North Indian,Punjabi,Sindhi",Kilpauk,44
+207963,Vyasarpadi,Chennai,Pranav Chats,150.0,3.3,20,Chaat,Perambur,58
+218579,Egmore,Chennai,Sri Krishna Sweets,200.0,4.4,50,"Sweets,Snacks,Street Food",Egmore,35
+220829,Thousand Lights,Chennai,Old Mercara,650.0,4.4,50,Ice Cream,Royapettah,45
+224303,Purasawalkam,Chennai,Lassi Junction Purasawalkam,300.0,4.1,20,"Beverages,Juices,Fast Food,Snacks,Desserts",Purasawalkam,37
+232393,West Mambalam,Chennai,Sre Bakya Fast Food,250.0,4.2,1000,"South Indian,North Indian,Biryani,Chinese,Tandoor,Snacks,Beverages,Combo",West Mambalam,72
+238268,Teynampet,Chennai,Cream Stone,300.0,4.6,100,"Ice Cream,Desserts,Beverages",Alwarpet,53
+239676,Kilpauk,Chennai,Swaad Punjab Ka,500.0,4.1,100,"Punjabi,North Indian",Kilpauk,46
+242720,Mylapore,Chennai,Mani Sri Saastha Kitchen,250.0,2.9,80,Indian,Mylapore,70
+250455,Koyambedu,Chennai,Dosa Kadai - Since 1989,150.0,4.1,50,"South Indian,North Indian",Madras Thiruvallur High Road,80
+251601,Kodambakkam,Chennai,Shakes And Desserts,200.0,3.9,100,"Ice Cream,Juices,North Indian,Salads",Choolaimadu Near Basha Street,50
+253380,Mylapore,Chennai,Nei Idly Sambar,200.0,3.8,100,South Indian,Mylapore,65
+259466,Gandhi Nagar,Chennai,Chennai Creams,200.0,2.9,80,Indian,Nungambakkam,59
+260124,Mylapore,Chennai,Inox,400.0,2.9,80,Fast Food,Chennai City Center,61
+263204,Purasaiwakkam,Chennai,The Greenhouse Barbecue,900.0,4.2,20,Barbecue,Kilpauk,50
+263833,Purasaiwakkam,Chennai,Pure Veg Meals By Lunchbox,200.0,3.5,20,"North Indian,Desserts,Biryani",Purasaiwakkam,47
+266271,Nungambakkam,Chennai,Moo It,200.0,2.9,80,"Desserts,Ice Cream,Juices",Nungambakkam,46
+268334,Kilpauk,Chennai,Gosip,200.0,4.2,20,"Italian,Fast Food,Beverages",Nungambakkam,49
+283324,Kilpauk,Chennai,Jalsa,500.0,2.9,80,"Chaat,Beverages",Kilpauk,49
+288656,Anna Nagar,Chennai,A1 Chips Anna Nagar,200.0,4.4,20,"Snacks,Sweets",Annanagar,62
+291742,Thousand Lights,Chennai,It'S Waffle Time,300.0,2.9,80,Cafe,Nungambakkam,51
+292289,Alwarpet,Chennai,Gogo Desi,250.0,2.9,80,Indian,Alwarpet,68
+293863,Kilpauk,Chennai,Desi-Fied,250.0,2.9,80,"Italian,Chinese,Indian",Nungambakkam,44
+293883,Choolaimedu,Chennai,Roti Aur Paratha,250.0,4.4,50,North Indian,Choolaimedu,71
+293884,Old Washermanpet,Chennai,Hotel Sandeep,250.0,4.3,20,Indian,Royapuram,45
+293892,Choolaimedu,Chennai,Parvathi Rasoi,250.0,4.1,20,Indian,Choolaimedu,75
+293906,Choolaimedu,Chennai,Bistro Mylapore,250.0,2.9,80,"Chinese,Mexican",Choolaimedu,75
+293909,Choolaimedu,Chennai,3 V'S Bistro,250.0,2.9,80,"Pizzas,Fast Food",Choolaimedu,76
+294181,Choolaimedu,Chennai,Rice And Curry,250.0,2.9,80,"Indian,Chinese",Choolaimedu,73
+296067,Egmore,Chennai,Delhi Highway,300.0,4.7,100,Indian,Egmore,45
+300033,Egmore,Chennai,Pind,550.0,4.4,100,"Mughlai,North Indian,Chinese",Egmore,44
+303169,Kilpauk,Chennai,Modo,600.0,4.4,100,"North Indian,Chinese,Indian,Jain,Biryani,Desserts,Beverages,Italian,Pastas,Continental,Thai,Mediterranean,Pan-Asian",Kilpauk,52
+311052,Old Washermanpet,Chennai,Frozen World,200.0,2.9,80,Ice Cream,Royapuram,60
+312796,Kilpauk,Chennai,Tcf - Twinchester Foods,200.0,2.9,80,"Chinese,Snacks",Kilpauk,57
+312965,Egmore,Chennai,Havmor Havfunn,200.0,4.4,20,"Ice Cream,Ice Cream Cakes,Desserts",Egmore,33
+315333,George Town,Chennai,Howdy Chennai,200.0,3.7,20,"Indian,Fast Food,Snacks,Beverages",Sowcarpet,49
+325490,Anna Nagar West,Chennai,Dessert Addiction,299.0,4.4,100,"Desserts,Ice Cream",Annanagar,65
+329704,Egmore,Chennai,Sandwich Town,200.0,2.9,80,Snacks,Egmore,39
+329710,Egmore,Chennai,Thickshake Town,200.0,2.9,80,Juices,Egmore,38
+329847,Kodambakkam,Chennai,Mahaganapathy Cafe,200.0,4.3,1000,"Indian,Chinese,South Indian",Kodambakkam,75
+341078,Anna Nagar,Chennai,Bamboo Kitchen,400.0,4.2,50,"Chinese,Thai",Annanagar,71
+341858,Kilpauk,Chennai,Vanakkam,100.0,2.9,80,"South Indian,Snacks",Kilpauk,52
+345540,Egmore,Chennai,Munchberry,100.0,2.9,80,"Bakery,Indian,Snacks",Sindur Plaza,39
+347416,Egmore,Chennai,Tea Liteful,200.0,4.6,20,"Beverages,Snacks,Continental",Egmore,40
+347553,Gopalapuram,Chennai,Annavilasam Gourmet Veg,200.0,4.4,100,"South Indian,North Indian,Oriental,Snacks",Royapettah,56
+349062,Periyamet,Chennai,Binge Pop,200.0,2.9,80,Continental,Purasawalkam,37
+349173,Perambur,Chennai,Bon Appet-Eat,200.0,2.9,80,"Snacks,American,Beverages,Desserts",Perambur,72
+351022,Old Washermanpet,Chennai,Hotel Shanmuga,200.0,2.9,80,South Indian,Royapuram,59
+351392,Chetpet,Chennai,Kailash Parbat,300.0,4.1,500,"Fast Food,North Indian,Street Food",Chetpet,55
+355702,T Nagar,Chennai,Sugarcane Jks Shop,200.0,2.9,80,"Street Food,Indian,Beverages",T Nagar,88
+363425,George Town,Chennai,Hotel Natarajah,270.0,4.4,20,"South Indian,Chinese,North Indian",George Town,52
+366833,Raja Annamalai Puram,Chennai,Delisix,250.0,3.9,50,"North Indian,Fast Food,Chaat",Mylapore,68
+368384,Chetpet,Chennai,Mayur Annalakshmi Sweets Savouries Spices,200.0,4.5,100,"South Indian,North Indian,Beverages",Chetpet,35
+371659,T. Nagar,Chennai,Dosai With A Twist,250.0,2.9,80,Indian,T Nagar,72
+371935,Anna Nagar,Chennai,Mishra Pan Shop,300.0,4.6,50,Paan,Annanagar,64
+385585,Triplicane,Chennai,Aradhana,250.0,2.9,80,Indian,Royapettah,48
+386329,Perambur,Chennai,Snaack Master,200.0,2.9,80,"Continental,Snacks",Perambur,57
+386983,Perambur,Chennai,Priya Veg Home Foods,150.0,4.3,20,Indian,Perambur,68
+390780,T Nagar,Chennai,Cocoa & Creme,300.0,2.9,80,Bakery,T Nagar,79
+391274,T Nagar,Chennai,Benaras,300.0,4.3,50,"Chaat,Snacks,Fast Food,Beverages",T Nagar,66
+394247,Kilpauk,Chennai,Friends Food Court,250.0,4.0,20,"South Indian,North Indian,Chaat,Chinese,Juices,Beverages",Kilpauk,63
+394541,Perambur,Chennai,A Plus Tea,100.0,2.9,80,Beverages,Perambur,60
+399096,Mylapore,Chennai,Hotel Chaithra,100.0,4.2,50,"South Indian,Chinese",Mylapore,53
+400357,Annanagar,Chennai,Kolambu Box,300.0,2.9,80,"Indian,Street Food,European",Annanagar,62
+401306,George Town,Chennai,Guna Bhai Dosa,200.0,2.9,80,Indian,George Town,45
+401645,Mogappair,Chennai,Havmor Havfunn,300.0,2.9,80,"Ice Cream,Indian",Mogappair,80
+403037,Royapuram,Chennai,Nic Natural Ice Creams,120.0,4.5,100,"Ice Cream,Desserts",Bc Press Road,52
+403038,Royapuram,Chennai,Grameen Kulfi,120.0,2.9,80,"Ice Cream,Desserts",Bc Press Road,52
+403893,Royapettah,Chennai,Fasta Pizza,200.0,2.9,80,"Pizzas,Beverages",Royapettah,58
+409880,Vadapalani,Chennai,Thaai Mann,300.0,2.9,80,"Desserts,Fast Food,Sweets",Vadapalani,79
+410301,Kilpauk,Chennai,Ramas Cafe,250.0,4.6,20,"South Indian,Sweets",Kilpauk,46
+412721,T Nagar,Chennai,S3 Elite Family Dining,250.0,3.5,20,"Chinese,Thalis",T Nagar,71
+415569,Mogapair,Chennai,Keventers Ice Creamery,300.0,4.7,20,"Ice Cream,Desserts",Vr Mall,86
+416629,Kodambakkam,Chennai,Krishna Sweet,100.0,3.9,20,Sweets,Kodambakkam,73
+420750,Annanagar,Chennai,Sudhas Chaat And Sweets,200.0,2.9,80,"Chaat,Combo,North Indian",Annanagar,69
+421134,Purasawalkam,Chennai,The Hut,200.0,2.9,80,"Fast Food,Beverages",Purasawalkam,49
+425482,Kodambakkam,Chennai,Sk Chats,400.0,2.9,80,"Chaat,Snacks",Kodambakkam,78
+426422,Annanagar,Chennai,Delara,800.0,2.9,80,Indian,Annanagar,65
+428657,T Nagar,Chennai,Pachcha Kaththi,400.0,2.9,80,Indian,T Nagar,78
+428701,Vadapalani,Chennai,Juice Box,250.0,2.9,80,"Beverages,Snacks,Fast Food",Vadapalani,78
+431370,Purasawalkam,Chennai,Nxtdoor,200.0,4.6,20,"Continental,Italian,Beverages",Purasawalkam,46
+431569,Alwarpet,Chennai,Jallikattu Biriyani,400.0,2.9,80,Biryani,Alwarpet,72
+434037,Purasawalkam,Chennai,The New Box,300.0,3.6,20,"Chinese,Fast Food,Indian",Purasawalkam,48
+434672,Royapettah,Chennai,Chettinese,300.0,2.9,80,"Chinese,Indian",Royapettah,57
+436423,Perambur,Chennai,Sanjana Foods And Snacks,45.0,2.9,80,"Snacks,Sweets,Beverages",Perambur,57
+438909,Annanagar,Chennai,Spotlight Cafe,50.0,2.9,80,"Fast Food,Pizzas,Beverages",Annanagar,66
+441697,Annanagar,Chennai,Splash,300.0,2.9,80,Beverages,Annanagar,69
+442373,Kodambakkam,Chennai,Paratha Point,350.0,2.9,80,North Indian,Kodambakkam,72
+442632,Perambur,Chennai,Friends Karupatti Coffee,100.0,2.9,80,"Beverages,Snacks,Bakery",Perambur,56
+443937,Purasawalkam,Chennai,Topped Off,450.0,2.9,80,"Chinese,Fast Food,Continental,Tandoor,Italian,Indian",Purasawalkam,40
+444220,Vadapalani,Chennai,Myilai,100.0,2.9,80,"Beverages,Combo",Vadapalani,85
+444553,Kodambakkam,Chennai,Lassi Blast,200.0,2.9,80,Beverages,Kodambakkam,72
+445277,Perambur,Chennai,Tea Time-Kodungaiyur,20.0,2.9,80,Beverages,Perambur,67
+445977,Annanagar,Chennai,Mr.Tiffin,200.0,2.9,80,South Indian,Annanagar,74
+447543,T Nagar,Chennai,Jalpaan,600.0,2.9,80,"North Indian,Chinese,Thai,Indian,Desserts,Beverages",T Nagar,90
+447805,Purasawalkam,Chennai,Royera Juice Hub,300.0,2.9,80,"Italian,Desserts,Beverages",Purasawalkam,39
+448678,Perambur,Chennai,Delightful Dessert,200.0,2.9,80,Desserts,Perambur,51
+450033,Alwarpet,Chennai,Surabi Organic,100.0,2.9,80,"Beverages,Snacks",Alwarpet,63
+450236,Annanagar,Chennai,Hyderabad Irani Chai,400.0,2.9,80,Chinese,Annanagar,70
+450543,Perambur,Chennai,Afresh,100.0,5.0,20,"Healthy Food,Salads,Desserts,Beverages",Perambur,50
+451401,Vadapalani,Chennai,The Lassi Corner,150.0,2.9,80,"Beverages,Ice Cream,Sweets,Fast Food",Vadapalani,78
+451411,Kodambakkam,Chennai,Madurai Mamiyar Mess,120.0,2.9,80,South Indian,Kodambakkam,71
+452827,Kilpauk,Chennai,Dp Special,340.0,2.9,80,Snacks,Kilpauk,45
+453436,Arumbakkam,Chennai,Highway Inn Smart,300.0,2.9,80,"Indian,Chinese,Snacks",Arumbakkam,73
+453469,Vadapalani,Chennai,A1 Chips West Mambalam(T Nagar),190.0,2.9,80,Indian,Vadapalani,77
+454341,Kodambakkam,Chennai,Rice Junction / Chinthamani Foods Chennai Private,250.0,2.9,80,"Biryani,Indian",Kodambakkam,68
+454498,Arumbakkam,Chennai,Rajalakshmi Home Cooking,200.0,2.9,80,"Fast Food,Snacks",Arumbakkam,64
+455363,Kodambakkam,Chennai,Sri Lakshmi Vilas Hotels,200.0,2.9,80,"South Indian,Chinese",Kodambakkam,73
+456635,George Town,Chennai,Dadi'S Kitchen,297.0,2.9,80,"Snacks,Chaat,Indian",George Town,36
+462604,Royapettah,Chennai,Juice World Fresh N Juicy,170.0,2.9,80,"Juices,Beverages,American,Chinese,Italian,Snacks,Desserts",Royapettah,47
