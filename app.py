@@ -21,26 +21,39 @@ user_rating = st.slider("Select Minimum Rating", min_value=float(df['Avg ratings
 # Filter the dataset based on the user area
 area_df = df[df['Area'] == user_area]
 
-# Perform K-means clustering based on Price and Avg ratings
-kmeans = KMeans(n_clusters=5, random_state=0)  # You can adjust n_clusters based on your needs
-area_df['cluster'] = kmeans.fit_predict(area_df[['Price', 'Avg ratings']])
-
-# Filter the results based on user's price and rating
-filtered_df = area_df[(area_df['Price'] <= user_price) & (area_df['Avg ratings'] >= user_rating)]
-
-# Display the top 5 restaurants that fit the criteria
-top_restaurants = filtered_df.head(5)
-
-# Output the results
-st.subheader("Top 5 Restaurants")
-if not top_restaurants.empty:
-    st.write("Here are the top 5 restaurants based on your criteria:")
-    for index, row in top_restaurants.iterrows():
-        st.markdown(f"### {row['Restaurant']}")
-        st.write(f"**Price:** ₹{row['Price']}")
-        st.write(f"**Average Rating:** {row['Avg ratings']}")
-        st.write(f"**Food Type:** {row['Food type']}")
-        st.write(f"**Address:** {row['Address']}")
-        st.write("---")
+# Check if area_df is empty
+if area_df.empty:
+    st.write("No data available for the selected area.")
 else:
-    st.write("No restaurants found that match your criteria.")
+    # Convert columns to numeric and handle missing values
+    area_df['Price'] = pd.to_numeric(area_df['Price'], errors='coerce')
+    area_df['Avg ratings'] = pd.to_numeric(area_df['Avg ratings'], errors='coerce')
+    area_df = area_df.dropna(subset=['Price', 'Avg ratings'])
+
+    # Check if there's enough data for clustering
+    if len(area_df) < 5:
+        st.write("Not enough data points to perform clustering.")
+    else:
+        # Perform K-means clustering based on Price and Avg ratings
+        kmeans = KMeans(n_clusters=5, random_state=0)
+        area_df['cluster'] = kmeans.fit_predict(area_df[['Price', 'Avg ratings']])
+
+        # Filter the results based on user's price and rating
+        filtered_df = area_df[(area_df['Price'] <= user_price) & (area_df['Avg ratings'] >= user_rating)]
+
+        # Display the top 5 restaurants that fit the criteria
+        top_restaurants = filtered_df.head(5)
+
+        # Output the results
+        st.subheader("Top 5 Restaurants")
+        if not top_restaurants.empty:
+            st.write("Here are the top 5 restaurants based on your criteria:")
+            for index, row in top_restaurants.iterrows():
+                st.markdown(f"### {row['Restaurant']}")
+                st.write(f"**Price:** ₹{row['Price']}")
+                st.write(f"**Average Rating:** {row['Avg ratings']}")
+                st.write(f"**Food Type:** {row['Food type']}")
+                st.write(f"**Address:** {row['Address']}")
+                st.write("---")
+        else:
+            st.write("No restaurants found that match your criteria.")
